@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T15:00:00Z",
+  "updated": "2026-10-12T07:13:38Z",
   "grants": [
     {
       "id": "early-career-awards",
@@ -472,6 +472,140 @@
       "url": "https://www.nrf.go.ke/kenya-france-pamoja-phc-2026/",
       "src": "NRF Kenya announcement",
       "auto": false
+    },
+    {
+      "id": "ebe9d3115a",
+      "title": "WomanKind Creative Grant 2027",
+      "funder": "Opportunity Desk, Africa",
+      "scope": "international",
+      "cats": [
+        "health"
+      ],
+      "type": "Research grant",
+      "deadline": "2026-11-01",
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "Deadline: November 1, 2026 Applications for the WomanKind Creative Grant 2027 are now open. The WomanKind Creative Grant provides early-stage women’s health companies with the strategic branding and design support they need to build trust,...",
+      "note": "Found automatically on 2026-10-12. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://opportunitydesk.org/2026/10/10/womankind-creative-grant-2027/",
+      "src": "Opportunity Desk, Africa (auto-found)",
+      "auto": true,
+      "found": "2026-10-12"
+    },
+    {
+      "id": "1005cf60a5",
+      "title": "Yves Rocher Foundation Terre de Femmes International Award 2027 (€10,000 grant)",
+      "funder": "Opportunity Desk, Africa",
+      "scope": "international",
+      "cats": [
+        "any"
+      ],
+      "type": "Research grant",
+      "deadline": "2026-11-30",
+      "amount": "€10,000",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "Deadline: November 30, 2026 Applications are open for the Yves Rocher Foundation Terre de Femmes International Award 2027. This new edition of the thematic Terre de Femmes International Award will reward a project led by a woman or a group...",
+      "note": "Found automatically on 2026-10-12. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://opportunitydesk.org/2026/10/10/terre-de-femmes-international-award-2027/",
+      "src": "Opportunity Desk, Africa (auto-found)",
+      "auto": true,
+      "found": "2026-10-12"
+    },
+    {
+      "id": "c1b1658753",
+      "title": "Harvard LEAD Fellowship for Promoting Women in Global Health 2027-2028 (Funded)",
+      "funder": "Opportunity Desk, Africa",
+      "scope": "international",
+      "cats": [
+        "health"
+      ],
+      "type": "Fellowship",
+      "deadline": "2026-11-15",
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "Deadline: November 15, 2026 Applications are open for the Harvard LEAD Fellowship for Promoting Women in Global Health 2027-2028. The LEAD Fellowship, a one-year fellowship designed to advance leadership skills among individuals from low-...",
+      "note": "Found automatically on 2026-10-12. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://opportunitydesk.org/2026/10/09/harvard-lead-fellowship-for-promoting-women-in-global-health-2027-2028/",
+      "src": "Opportunity Desk, Africa (auto-found)",
+      "auto": true,
+      "found": "2026-10-12"
+    },
+    {
+      "id": "80fe715bc7",
+      "title": "World Bank Group Government Analytics Fellowship 2027",
+      "funder": "Opportunity Desk, Africa",
+      "scope": "international",
+      "cats": [
+        "physical"
+      ],
+      "type": "Fellowship",
+      "deadline": "2026-11-16",
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "Deadline: November 16, 2026 Do you want to lead change and drive innovation within your government? The World Bank invites dedicated public servants to apply for the 2027 Government Analytics Fellowship. The Government Analytics Fellowship...",
+      "note": "Found automatically on 2026-10-12. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://opportunitydesk.org/2026/10/09/world-bank-group-government-analytics-fellowship-2027/",
+      "src": "Opportunity Desk, Africa (auto-found)",
+      "auto": true,
+      "found": "2026-10-12"
+    },
+    {
+      "id": "8458d917d7",
+      "title": "Atlantic Fellows for Social and Economic Equity (AFSEE) Programme 2027-2028 (Fully-funded)",
+      "funder": "Opportunity Desk, Africa",
+      "scope": "international",
+      "cats": [
+        "humanities"
+      ],
+      "type": "Research grant",
+      "deadline": "2027-01-11",
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "Deadline: January 11, 2027 Applications are open for the Atlantic Fellows for Social and Economic Equity (AFSEE) Programme 2027-2028. Policymakers, researchers, activists, practitioners, artists, and movement-builders from around the world...",
+      "note": "Found automatically on 2026-10-12. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://opportunitydesk.org/2026/10/08/afsee-programme-2027-2028/",
+      "src": "Opportunity Desk, Africa (auto-found)",
+      "auto": true,
+      "found": "2026-10-12"
+    },
+    {
+      "id": "94ed67a82f",
+      "title": "Rare Disease Reporting Fellowship and Grants 2026 (up to $2,000)",
+      "funder": "Opportunity Desk, grants",
+      "scope": "international",
+      "cats": [
+        "health",
+        "physical"
+      ],
+      "type": "Fellowship",
+      "deadline": "2026-10-22",
+      "amount": "Up to $2,000",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "Deadline: October 22, 2026 Applications are open for the Rare Disease Reporting Fellowship and Grants 2026. As biotechnology continues its march toward revolutionary treatments and cures for complex medical conditions, the daily realities...",
+      "note": "Found automatically on 2026-10-12. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://opportunitydesk.org/2026/09/26/rare-disease-reporting-fellowship-and-grants-2026/",
+      "src": "Opportunity Desk, grants (auto-found)",
+      "auto": true,
+      "found": "2026-10-12"
+    },
+    {
+      "id": "161b57e24b",
+      "title": "CFAs: African Climate Collaborative PhD Fellowship Program",
+      "funder": "fundsforNGOs",
+      "scope": "international",
+      "cats": [
+        "environment"
+      ],
+      "type": "Fellowship",
+      "deadline": null,
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "The African Climate Collaborative invites applications for 12 fully funded PhD fellowships in Climate and Development, hosted by the University of Cape Town. This four-year doctoral training program aims to develop African scholars who can...",
+      "note": "Found automatically on 2026-10-12. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://www2.fundsforngos.org/environment-2/phd-fellowships-in-climate-and-development-at-the-university-of-cape-town/",
+      "src": "fundsforNGOs (auto-found)",
+      "auto": true,
+      "found": "2026-10-12"
     }
   ]
 }
