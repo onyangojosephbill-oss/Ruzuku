@@ -1,0 +1,30 @@
+{
+  "_help": "Each source is an RSS or Atom feed. 'scope' is the default label for items from that feed. Set 'require_region' to true for general feeds so only items that mention Africa, Kenya, developing countries and similar are kept. Add or remove sources freely. Put any web address you never want listed in 'ignore_urls'.",
+  "ignore_urls": [],
+  "sources": [
+    {
+      "name": "National Research Fund Kenya",
+      "url": "https://www.nrf.go.ke/category/grants-and-calls/feed/",
+      "scope": "kenya",
+      "require_region": false
+    },
+    {
+      "name": "Opportunity Desk, Africa",
+      "url": "https://opportunitydesk.org/category/search-by-region/africa/feed/",
+      "scope": "international",
+      "require_region": false
+    },
+    {
+      "name": "Opportunity Desk, grants",
+      "url": "https://opportunitydesk.org/category/awards-and-grants/grants/feed/",
+      "scope": "international",
+      "require_region": true
+    },
+    {
+      "name": "fundsforNGOs",
+      "url": "https://www2.fundsforngos.org/feed/",
+      "scope": "international",
+      "require_region": true
+    }
+  ]
+}

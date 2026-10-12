@@ -1,0 +1,477 @@
+{
+  "updated": "2026-10-09T15:00:00Z",
+  "grants": [
+    {
+      "id": "early-career-awards",
+      "title": "Early-Career Awards",
+      "funder": "Wellcome",
+      "scope": "international",
+      "cats": [
+        "health",
+        "any"
+      ],
+      "type": "Research grant",
+      "deadline": "2026-11-10",
+      "amount": "Salary plus up to £400,000 for research costs",
+      "who": "Early-career researchers in any discipline, applying alone. No co-applicants.",
+      "summary": "Supports early-career researchers to build an independent research identity in human life, health and wellbeing. Three rounds a year.",
+      "note": "Closes at 15:00 GMT. Check that your host institution can hold Wellcome awards.",
+      "url": "https://wellcome.org/research-funding/schemes",
+      "src": "University of Malawi funding portal listing",
+      "auto": false
+    },
+    {
+      "id": "career-development-awards",
+      "title": "Career Development Awards",
+      "funder": "Wellcome",
+      "scope": "international",
+      "cats": [
+        "health",
+        "any"
+      ],
+      "type": "Research grant",
+      "deadline": "2026-11-17",
+      "amount": "Usually under £250,000 a year, excluding salary",
+      "who": "Mid-career researchers in any discipline with potential to become international research leaders.",
+      "summary": "Backs mid-career researchers working on human life, health and wellbeing. Three rounds a year.",
+      "note": "This is the full-application deadline for the current round.",
+      "url": "https://wellcome.org/research-funding/schemes",
+      "src": "University of Malawi funding portal listing",
+      "auto": false
+    },
+    {
+      "id": "discovery-awards",
+      "title": "Discovery Awards",
+      "funder": "Wellcome",
+      "scope": "international",
+      "cats": [
+        "health",
+        "any"
+      ],
+      "type": "Research grant",
+      "deadline": "2026-09-22",
+      "amount": "Average award about £3.5 million",
+      "who": "Established researchers and teams in any discipline.",
+      "summary": "Bold discovery research in human life, health and wellbeing. Two rounds a year.",
+      "note": "The 22 September 2026 deadline has passed. Check Wellcome for the next round.",
+      "url": "https://wellcome.org/research-funding/schemes",
+      "src": "University of Malawi funding portal listing",
+      "auto": false
+    },
+    {
+      "id": "collaborative-network-for-vaccine-research-in-west-and-east-",
+      "title": "Collaborative Network for Vaccine Research in West and East Africa",
+      "funder": "National Research Fund Kenya, with UNCST (Uganda), COSTECH (Tanzania) and NSTIC-SL (Sierra Leone)",
+      "scope": "kenya",
+      "cats": [
+        "health"
+      ],
+      "type": "Research grant",
+      "deadline": "2026-10-14",
+      "amount": "Pool of USD 1,191,351. Up to 7 large grants of USD 156,750 and up to 2 early-career grants of USD 47,000.",
+      "who": "Researchers and eligible institutions in the partner countries. The full call PDF sets the exact rules.",
+      "summary": "Part of the CONNECT-VAX initiative. Projects run up to 36 months.",
+      "note": "Closes 23:59 EAT. Submit through the NRIMS portal at nrims.uncst.go.ug.",
+      "url": "https://www.nrf.go.ke/collaborative-network-for-vaccine-research-in-west-and-east-africa/",
+      "src": "NRF Kenya announcement",
+      "auto": false
+    },
+    {
+      "id": "fogarty-international-center-funding-opportunities",
+      "title": "Fogarty International Center funding opportunities",
+      "funder": "NIH Fogarty International Center",
+      "scope": "international",
+      "cats": [
+        "health"
+      ],
+      "type": "Directory",
+      "deadline": null,
+      "amount": "Varies by programme",
+      "who": "Varies by programme.",
+      "summary": "Research training and international health research programmes, including HIV, non-communicable diseases, bioethics, infectious disease ecology and DS-I Africa.",
+      "note": "Read NIH notices NOT-OD-25-104 and NOT-OD-25-098 on foreign subawards and international partners before applying.",
+      "url": "https://www.fic.nih.gov/Funding/Pages/Fogarty-Funding-Opps.aspx",
+      "src": "Fogarty funding page",
+      "auto": false
+    },
+    {
+      "id": "iie-scholar-rescue-fund-fellowship",
+      "title": "IIE Scholar Rescue Fund Fellowship",
+      "funder": "IIE, listed by TWAS",
+      "scope": "international",
+      "cats": [
+        "any"
+      ],
+      "type": "Fellowship",
+      "deadline": "2026-10-11",
+      "amount": "Not stated on the listing",
+      "who": "Scholars whose work or safety is threatened. See the IIE-SRF criteria.",
+      "summary": "An external fellowship opportunity posted on the TWAS opportunities page.",
+      "note": "Confirm eligibility and how to apply with IIE-SRF.",
+      "url": "https://twas.org/node/16790",
+      "src": "TWAS opportunities page",
+      "auto": false
+    },
+    {
+      "id": "fourth-global-call-for-initiatives-international-decade-of-s",
+      "title": "Fourth Global Call for Initiatives, International Decade of Sciences for Sustainable Development 2024–2033",
+      "funder": "Listed by TWAS",
+      "scope": "international",
+      "cats": [
+        "environment"
+      ],
+      "type": "Call for initiatives",
+      "deadline": "2026-10-20",
+      "amount": "Not stated on the listing",
+      "who": "Not stated on the listing.",
+      "summary": "An external call under the International Decade of Sciences for Sustainable Development, posted on the TWAS opportunities page.",
+      "note": "Open the call page for the full terms.",
+      "url": "https://twas.org/node/16796",
+      "src": "TWAS opportunities page",
+      "auto": false
+    },
+    {
+      "id": "twas-sissa-lincei-research-cooperation-visits-programme",
+      "title": "TWAS-SISSA-Lincei Research Cooperation Visits Programme",
+      "funder": "TWAS",
+      "scope": "international",
+      "cats": [
+        "physical"
+      ],
+      "type": "Visiting programme",
+      "deadline": "2026-10-31",
+      "amount": "Not stated on the listing",
+      "who": "Not stated on the listing.",
+      "summary": "Research cooperation visits run by TWAS with SISSA and Lincei.",
+      "note": "TWAS programmes are generally for the natural sciences. Confirm eligibility on the programme page.",
+      "url": "https://twas.org/opportunity/twas-sissa-lincei-research-cooperation-visits-programme",
+      "src": "TWAS opportunities page",
+      "auto": false
+    },
+    {
+      "id": "twas-research-professors-in-ldcs",
+      "title": "TWAS Research Professors in LDCs",
+      "funder": "TWAS",
+      "scope": "international",
+      "cats": [
+        "physical"
+      ],
+      "type": "Visiting programme",
+      "deadline": "2026-11-23",
+      "amount": "Not stated on the listing",
+      "who": "Aimed at least developed countries (LDCs).",
+      "summary": "A TWAS visiting scientist programme.",
+      "note": "Kenya is generally not classed as an LDC, so check whether you qualify before you prepare an application.",
+      "url": "https://twas.org/opportunity/twas-research-professors-ldcs",
+      "src": "TWAS opportunities page",
+      "auto": false
+    },
+    {
+      "id": "twas-visiting-expert-programme",
+      "title": "TWAS Visiting Expert Programme",
+      "funder": "TWAS",
+      "scope": "international",
+      "cats": [
+        "physical"
+      ],
+      "type": "Visiting programme",
+      "deadline": "2026-11-23",
+      "amount": "Not stated on the listing",
+      "who": "Not stated on the listing.",
+      "summary": "A TWAS visiting scientist programme.",
+      "note": "Confirm eligibility on the programme page.",
+      "url": "https://twas.org/opportunity/twas-visiting-expert-programme",
+      "src": "TWAS opportunities page",
+      "auto": false
+    },
+    {
+      "id": "twas-research-and-project-grants",
+      "title": "TWAS Research and Project Grants",
+      "funder": "TWAS",
+      "scope": "international",
+      "cats": [
+        "physical"
+      ],
+      "type": "Research grant",
+      "deadline": null,
+      "amount": "Not listed",
+      "who": "Individual scientists and research groups in developing countries.",
+      "summary": "Pays for specialised equipment and consumables, and supports Master of Science students.",
+      "note": "No deadline appeared on the page. Check the grant page for the current call.",
+      "url": "https://twas.org/opportunities/research-and-project-grants",
+      "src": "TWAS opportunities page",
+      "auto": false
+    },
+    {
+      "id": "twas-phd-and-postdoctoral-fellowships",
+      "title": "TWAS PhD and Postdoctoral Fellowships",
+      "funder": "TWAS",
+      "scope": "international",
+      "cats": [
+        "physical"
+      ],
+      "type": "Fellowship",
+      "deadline": null,
+      "amount": "Not listed",
+      "who": "Applicants for a PhD (about 160 places with eight partners in six countries) or a postdoc (about 100 places with nine partners in five countries).",
+      "summary": "Fellowships hosted at partner institutions abroad.",
+      "note": "Apply only through the online portal while the call is open. You need a preliminary acceptance letter from the host issued in the same year, and you may apply to one TWAS or OWSD programme per calendar year.",
+      "url": "https://twas.org/opportunities/fellowships/phd",
+      "src": "TWAS opportunities page",
+      "auto": false
+    },
+    {
+      "id": "leap-se-2026-call-for-proposals",
+      "title": "LEAP-SE 2026 Call for Proposals",
+      "funder": "EU–AU sustainable energy partnership (LEAP-RE)",
+      "scope": "international",
+      "cats": [
+        "physical"
+      ],
+      "type": "Research grant",
+      "deadline": "2026-06-24",
+      "amount": "Programme budget about €30 million. Per-project amount not stated.",
+      "who": "Consortia with partners from participating African Union and EU countries, Kenya included. Each national funder applies its own rules.",
+      "summary": "Projects run 12 to 36 months across basic research, applied research and experimental development.",
+      "note": "This was the full-proposal deadline, after a mandatory pre-proposal in February. Results are due mid-November 2026.",
+      "url": "https://www.nrf.go.ke/leap-se-2026-call-for-proposals/",
+      "src": "NRF Kenya announcement",
+      "auto": false
+    },
+    {
+      "id": "economics-of-climate-change-adaptation-in-africa",
+      "title": "Economics of Climate Change Adaptation in Africa",
+      "funder": "Listed by CLARE and SEI",
+      "scope": "international",
+      "cats": [
+        "environment",
+        "humanities"
+      ],
+      "type": "Research grant",
+      "deadline": "2026-03-05",
+      "amount": "Not stated on the listing",
+      "who": "Not stated on the listing.",
+      "summary": "A call for funding proposals on the economics of adapting to climate change in Africa.",
+      "note": "Closed in March 2026. Follow CLARE for similar calls.",
+      "url": "https://www.sei.org/features/call-for-funding-proposals-economics-of-climate-change-adaptation-in-africa/",
+      "src": "CLARE opportunities page",
+      "auto": false
+    },
+    {
+      "id": "ifs-research-grants",
+      "title": "IFS Research Grants",
+      "funder": "International Foundation for Science",
+      "scope": "international",
+      "cats": [
+        "environment"
+      ],
+      "type": "Research grant",
+      "deadline": "2026-06-30",
+      "amount": "Up to US$15,000",
+      "who": "Early-career scientists from eligible African countries, within their first five years of independent research.",
+      "summary": "Covers equipment, consumables, lab supplies, travel and fieldwork.",
+      "note": "Sources disagree on whether all fields qualify or mainly agriculture, water and environment. Confirm on ifs.se.",
+      "url": "https://www.ifs.se/",
+      "src": "Scholar Africa listing",
+      "auto": false
+    },
+    {
+      "id": "meaning-making-research-initiatives-2026",
+      "title": "Meaning-making Research Initiatives 2026",
+      "funder": "CODESRIA",
+      "scope": "international",
+      "cats": [
+        "humanities"
+      ],
+      "type": "Research grant",
+      "deadline": "2026-02-27",
+      "amount": "Up to USD 10,000 for individuals and USD 25,000 for groups, over 16 months",
+      "who": "African scholars with a PhD, mainly living on the continent. Group coordinators need a PhD.",
+      "summary": "Research on the state and democratisation, African economies, and ecologies and society, under CODESRIA's 2023–2027 priorities.",
+      "note": "The call document gives no date for a 2027 round. Watch the CODESRIA site.",
+      "url": "https://codesria.org/application-formmeaning-making-research-initiatives-mri-2026/",
+      "src": "CODESRIA call document",
+      "auto": false
+    },
+    {
+      "id": "ifra-nairobi-fieldwork-grants",
+      "title": "IFRA-Nairobi Fieldwork Grants",
+      "funder": "French Institute for Research in Africa",
+      "scope": "international",
+      "cats": [
+        "humanities"
+      ],
+      "type": "Fieldwork grant",
+      "deadline": "2026-06-19",
+      "amount": "€400 to €1,200",
+      "who": "Master's, PhD and postdoctoral researchers in the social sciences and humanities working in East Africa.",
+      "summary": "Small grants for fieldwork in East Africa.",
+      "note": "Closed in June 2026. The funder may reopen it in a later cycle.",
+      "url": "https://ifranairobi.hypotheses.org/fieldwork-support",
+      "src": "Third-party listing",
+      "auto": false
+    },
+    {
+      "id": "african-scholarship-programme",
+      "title": "African Scholarship Programme",
+      "funder": "Nordic Africa Institute",
+      "scope": "international",
+      "cats": [
+        "humanities"
+      ],
+      "type": "Fellowship",
+      "deadline": null,
+      "amount": "Return flights, accommodation, SEK 400 a day and a SEK 2,500 installation grant",
+      "who": "Early-career researchers based in Africa, working on contemporary Africa in the social sciences or humanities.",
+      "summary": "A three-month research stay at the Institute in Uppsala.",
+      "note": "A third-party page gave a 31 March deadline with a mismatched year. Confirm the current window on the NAI page.",
+      "url": "https://nai.uu.se/opportunities/scholarships/african-scholarship-programme.html",
+      "src": "Third-party listing",
+      "auto": false
+    },
+    {
+      "id": "next-generation-social-sciences-in-africa-fellowships",
+      "title": "Next Generation Social Sciences in Africa Fellowships",
+      "funder": "Social Science Research Council",
+      "scope": "international",
+      "cats": [
+        "humanities"
+      ],
+      "type": "Fellowship",
+      "deadline": null,
+      "amount": "Not listed",
+      "who": "Doctoral students in Africa working on local challenges.",
+      "summary": "Supports doctoral research on challenges facing African societies.",
+      "note": "No deadline appeared on the SSRC page. Open the programme page for the current call.",
+      "url": "https://www.ssrc.org/fellowships/",
+      "src": "SSRC fellowships page",
+      "auto": false
+    },
+    {
+      "id": "african-peacebuilding-network-fellowships",
+      "title": "African Peacebuilding Network Fellowships",
+      "funder": "Social Science Research Council",
+      "scope": "international",
+      "cats": [
+        "humanities"
+      ],
+      "type": "Fellowship",
+      "deadline": null,
+      "amount": "Not listed",
+      "who": "Researchers in Africa, as individuals or working groups. Details are on the programme page.",
+      "summary": "Individual and working-group fellowships that support local innovation of new knowledge on peacebuilding.",
+      "note": "No deadline appeared on the SSRC page. Open the programme page for the current call.",
+      "url": "https://www.ssrc.org/fellowships/",
+      "src": "SSRC fellowships page",
+      "auto": false
+    },
+    {
+      "id": "call-for-research-proposals-on-community-level-poverty-reduc",
+      "title": "Call for Research Proposals on community-level poverty reduction",
+      "funder": "African Institute for Capacity Development (AICAD)",
+      "scope": "international",
+      "cats": [
+        "humanities"
+      ],
+      "type": "Research grant",
+      "deadline": null,
+      "amount": "Not stated in the text",
+      "who": "Not stated in the text.",
+      "summary": "Seeks projects on community-level interventions, training programmes, extension activities and policy-relevant work aimed at reducing poverty.",
+      "note": "The full terms sit in an image on the NRF announcement. Email info@nrf.go.ke or call 020-4403386.",
+      "url": "https://www.nrf.go.ke/call-for-research-proposals/",
+      "src": "NRF Kenya announcement",
+      "auto": false
+    },
+    {
+      "id": "postgraduate-research-grants-nrf001-2026",
+      "title": "Postgraduate Research Grants NRF001/2026",
+      "funder": "National Research Fund Kenya",
+      "scope": "kenya",
+      "cats": [
+        "any"
+      ],
+      "type": "Research grant",
+      "deadline": "2026-03-06",
+      "amount": "PhD: up to KSh 2,000,000 over 3 years. Master's: up to KSh 500,000 over 1 year.",
+      "who": "Kenyan citizens registered full time for a Master's (under 35) or PhD (under 45) at a recognised Kenyan institution.",
+      "summary": "Pays research costs for postgraduate students. It cannot be used for tuition.",
+      "note": "Needs an endorsement letter signed by you, your supervisors, the graduate school and the head of the institution. Apply at grantsportal.nrf.go.ke.",
+      "url": "https://www.nrf.go.ke/postgraduate-research-grants-nrf001-2026/",
+      "src": "NRF Kenya announcement",
+      "auto": false
+    },
+    {
+      "id": "sgci-stisa-2034-multi-country-research-call",
+      "title": "SGCI STISA-2034 Multi-Country Research Call",
+      "funder": "SGCI, funded and managed by IDRC",
+      "scope": "international",
+      "cats": [
+        "any"
+      ],
+      "type": "Research grant",
+      "deadline": "2026-09-25",
+      "amount": "Not stated",
+      "who": "African universities, public research organisations and government institutes in 20 countries, in consortia of 3 to 5 institutions from at least 3 countries.",
+      "summary": "Interdisciplinary, policy-relevant research that advances the African Union's STISA-2034 priorities.",
+      "note": "A two-stage process. This was the expression-of-interest deadline, 23:59 EDT. Portal: call.sgci.africa.",
+      "url": "https://call.sgci.africa/",
+      "src": "NRF Kenya announcement",
+      "auto": false
+    },
+    {
+      "id": "researcher-sciencepreneur-collaboration-grant-2026",
+      "title": "Researcher–Sciencepreneur Collaboration Grant 2026",
+      "funder": "Swiss Leading House for Africa",
+      "scope": "international",
+      "cats": [
+        "any"
+      ],
+      "type": "Collaboration grant",
+      "deadline": "2026-08-31",
+      "amount": "CHF 5,000 to 20,000",
+      "who": "A Swiss-affiliated lead with an African co-applicant. One partner comes from a research institution and one from a science-based venture.",
+      "summary": "Funds prototyping, co-design, market discovery and pilot testing.",
+      "note": "Closed in August 2026.",
+      "url": "https://research.swiss/researcher-sciencepreneur-collaborationgrant-rscg-2026/",
+      "src": "NRF Kenya announcement",
+      "auto": false
+    },
+    {
+      "id": "wolfson-fellowship-and-wolfson-visiting-fellowship",
+      "title": "Wolfson Fellowship and Wolfson Visiting Fellowship",
+      "funder": "Royal Society",
+      "scope": "international",
+      "cats": [
+        "any"
+      ],
+      "type": "Fellowship",
+      "deadline": "2026-07-01",
+      "amount": "Fellowship: £300,000 over 5 years. Visiting: up to £125,000 for 12 months.",
+      "who": "Established researchers based overseas, of any nationality, nominated by a UK host institution.",
+      "summary": "A placement at a UK university or research institution, or a 12-month sabbatical for international collaboration.",
+      "note": "Closed 1 July 2026. Hosts had to submit nomination forms by 24 June.",
+      "url": "https://www.nrf.go.ke/royal-society-funding-opportunities/",
+      "src": "NRF Kenya announcement",
+      "auto": false
+    },
+    {
+      "id": "kenya-france-pamoja-phc-6th-call",
+      "title": "Kenya-France PAMOJA PHC (6th call)",
+      "funder": "National Research Fund Kenya with French partners",
+      "scope": "kenya",
+      "cats": [
+        "any"
+      ],
+      "type": "Research grant",
+      "deadline": "2025-09-15",
+      "amount": "Up to €23,000 per project over two years",
+      "who": "Joint teams with a coordinator in France and one in Kenya, each from a public scientific body. Kenyan members must live and work in Kenya at a state-authorised institution, TVET colleges included.",
+      "summary": "Kenya-France research cooperation, run through the NRF Grants Management System.",
+      "note": "The 6th call closed on 15 September 2025. Apply at grantsportal.nrf.go.ke when the next call opens.",
+      "url": "https://www.nrf.go.ke/kenya-france-pamoja-phc-2026/",
+      "src": "NRF Kenya announcement",
+      "auto": false
+    }
+  ]
+}
