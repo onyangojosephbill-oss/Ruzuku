@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T07:13:38Z",
+  "updated": "2026-10-12T07:41:20Z",
   "grants": [
     {
       "id": "early-career-awards",
@@ -603,6 +603,25 @@
       "summary": "The African Climate Collaborative invites applications for 12 fully funded PhD fellowships in Climate and Development, hosted by the University of Cape Town. This four-year doctoral training program aims to develop African scholars who can...",
       "note": "Found automatically on 2026-10-12. A person has not checked this entry, so confirm the details on the funder page.",
       "url": "https://www2.fundsforngos.org/environment-2/phd-fellowships-in-climate-and-development-at-the-university-of-cape-town/",
+      "src": "fundsforNGOs (auto-found)",
+      "auto": true,
+      "found": "2026-10-12"
+    },
+    {
+      "id": "14ad5a2e15",
+      "title": "Postdoctoral Researcher Programme in Climate and Development for African PhD Graduates",
+      "funder": "fundsforNGOs",
+      "scope": "international",
+      "cats": [
+        "environment"
+      ],
+      "type": "Fellowship",
+      "deadline": null,
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "The Africa Climate Collaborative, hosted by the University of Cape Town (UCT), offers a Postdoctoral Researcher Programme (PRP) in Climate and Development. This initiative aims to support recent African PhD graduates by providing fully...",
+      "note": "Found automatically on 2026-10-12. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://www2.fundsforngos.org/individuals/postdoctoral-research-fellowships-in-climate-and-development-at-the/",
       "src": "fundsforNGOs (auto-found)",
       "auto": true,
       "found": "2026-10-12"
