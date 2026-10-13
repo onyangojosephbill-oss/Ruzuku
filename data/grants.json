@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T07:41:20Z",
+  "updated": "2026-10-13T11:21:10Z",
   "grants": [
     {
       "id": "early-career-awards",
@@ -625,6 +625,82 @@
       "src": "fundsforNGOs (auto-found)",
       "auto": true,
       "found": "2026-10-12"
+    },
+    {
+      "id": "fc6dae9426",
+      "title": "Echidna Global Scholars Visiting Fellowship 2027 ($26,500 stipend)",
+      "funder": "Opportunity Desk, Africa",
+      "scope": "international",
+      "cats": [
+        "humanities"
+      ],
+      "type": "Fellowship",
+      "deadline": "2026-12-01",
+      "amount": "$26,500",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "Deadline: December 1, 2026 Applications are open for the Echidna Global Scholars Visiting Fellowship 2027. The Echidna Global Scholars Program at the Center for Universal Education (CUE) at Brookings seeks to catalyze and amplify the...",
+      "note": "Found automatically on 2026-10-13. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://opportunitydesk.org/2026/10/12/echidna-global-scholars-visiting-fellowship-2027/",
+      "src": "Opportunity Desk, Africa (auto-found)",
+      "auto": true,
+      "found": "2026-10-13"
+    },
+    {
+      "id": "ef91883a20",
+      "title": "Branco Weiss Fellowship – Society in Science 2027 (up to CHF600,000)",
+      "funder": "Opportunity Desk, Africa",
+      "scope": "international",
+      "cats": [
+        "humanities"
+      ],
+      "type": "Fellowship",
+      "deadline": "2027-01-15",
+      "amount": "Up to CHF600,000",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "Deadline: January 15, 2027 Applications are open for the Branco Weiss Fellowship – Society in Science 2027. The Branco Weiss Fellowship – Society in Science is a community of exceptional young scientists who share a passion for taking...",
+      "note": "Found automatically on 2026-10-13. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://opportunitydesk.org/2026/10/12/branco-weiss-fellowship-society-in-science-2027/",
+      "src": "Opportunity Desk, Africa (auto-found)",
+      "auto": true,
+      "found": "2026-10-13"
+    },
+    {
+      "id": "63249ce87f",
+      "title": "UNICEF Venture Funding Opportunity for Femtech Solutions 2026 (up to $100,000)",
+      "funder": "Opportunity Desk, Africa",
+      "scope": "international",
+      "cats": [
+        "health"
+      ],
+      "type": "Research grant",
+      "deadline": "2026-11-04",
+      "amount": "Up to $100,000",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "Deadline: November 4, 2026 UNICEF Femtech Ventures is seeking applications to join its second annual cohort of companies using frontier technologies to build open-source solutions for the health, wellbeing, and sexual and reproductive...",
+      "note": "Found automatically on 2026-10-13. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://opportunitydesk.org/2026/10/12/unicef-venture-funding-opportunity-for-femtech-solutions-2026/",
+      "src": "Opportunity Desk, Africa (auto-found)",
+      "auto": true,
+      "found": "2026-10-13"
+    },
+    {
+      "id": "9393329e39",
+      "title": "Africa-China Post-Doctoral Fellowship 2027-2028 (Funded)",
+      "funder": "Opportunity Desk, Africa",
+      "scope": "international",
+      "cats": [
+        "any"
+      ],
+      "type": "Fellowship",
+      "deadline": "2026-11-15",
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "Deadline: November 15, 2026 Applications for the Africa-China Post-Doctoral Fellowship 2027-2028 are now open. The Africa-China Initiative (ACI) at the Walsh School of Foreign Service (SFS) at Georgetown University is pleased to partner...",
+      "note": "Found automatically on 2026-10-13. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://opportunitydesk.org/2026/10/12/africa-china-post-doctoral-fellowship-2027-2028/",
+      "src": "Opportunity Desk, Africa (auto-found)",
+      "auto": true,
+      "found": "2026-10-13"
     }
   ]
 }
