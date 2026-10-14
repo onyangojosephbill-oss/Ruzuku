@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T11:21:10Z",
+  "updated": "2026-10-14T09:14:00Z",
   "grants": [
     {
       "id": "early-career-awards",
@@ -701,6 +701,83 @@
       "src": "Opportunity Desk, Africa (auto-found)",
       "auto": true,
       "found": "2026-10-13"
+    },
+    {
+      "id": "7a1f7f8fab",
+      "title": "Global Investigative Journalism Conference (GIJC) Fellowship 2027 (Funded)",
+      "funder": "Opportunity Desk, Africa",
+      "scope": "international",
+      "cats": [
+        "any"
+      ],
+      "type": "Fellowship",
+      "deadline": "2027-01-31",
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "Deadline: January 31, 2027 Applications are open for the Global Investigative Journalism Conference (GIJC) Fellowship 2027. The 15th Global Investigative Journalism Conference (GIJC) will be held in Rotterdam, The Netherlands, from October...",
+      "note": "Found automatically on 2026-10-14. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://opportunitydesk.org/2026/10/13/global-investigative-journalism-conference-fellowship-2027/",
+      "src": "Opportunity Desk, Africa (auto-found)",
+      "auto": true,
+      "found": "2026-10-14"
+    },
+    {
+      "id": "3763a6c396",
+      "title": "Green and Digital Employability and Enterprise Programme (UK and South Africa)",
+      "funder": "fundsforNGOs",
+      "scope": "international",
+      "cats": [
+        "physical"
+      ],
+      "type": "Research grant",
+      "deadline": "2026-11-17",
+      "amount": "£150,000",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "The British Council's Green and Digital Employability and Enterprise Programme (GDEEp) offers a £150,000 grant for a UK-South Africa consortium to pilot a new employability initiative in South Africa. This programme aims to prepare...",
+      "note": "Found automatically on 2026-10-14. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://www2.fundsforngos.org/individuals/green-and-digital-employability-and-enterprise-programme-uk-and-south-africa/",
+      "src": "fundsforNGOs (auto-found)",
+      "auto": true,
+      "found": "2026-10-14"
+    },
+    {
+      "id": "4bfc7f0aa5",
+      "title": "2026/2027 Cycle 4 Discretionary Grants Advert (South Africa)",
+      "funder": "fundsforNGOs",
+      "scope": "international",
+      "cats": [
+        "humanities"
+      ],
+      "type": "Research grant",
+      "deadline": null,
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "The CHIETA Discretionary Grants for the 2026/2027 Cycle 4 offer funding to support employers and enterprises within the chemical sector. Aimed at enhancing skills development, this opportunity aligns with national strategic plans to...",
+      "note": "Found automatically on 2026-10-14. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://www2.fundsforngos.org/innovation/2026-2027-cycle-4-discretionary-grants-advert-south-africa/",
+      "src": "fundsforNGOs (auto-found)",
+      "auto": true,
+      "found": "2026-10-14"
+    },
+    {
+      "id": "2b770952c3",
+      "title": "Call for Proposals to Support IDPs and Host Communities in Bria",
+      "funder": "fundsforNGOs",
+      "scope": "international",
+      "cats": [
+        "humanities",
+        "environment"
+      ],
+      "type": "Research grant",
+      "deadline": "2026-10-29",
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "The United Nations Development Programme (UNDP) is seeking proposals from NGOs to strengthen socio-economic resilience among internally displaced persons (IDPs) and host communities in Bria, Central African Republic. The initiative aims to...",
+      "note": "Found automatically on 2026-10-14. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://www2.fundsforngos.org/social-service/undp-call-for-proposals-supporting-socio-economic-resilience-in-bria/",
+      "src": "fundsforNGOs (auto-found)",
+      "auto": true,
+      "found": "2026-10-14"
     }
   ]
 }
