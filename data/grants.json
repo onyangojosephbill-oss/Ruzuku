@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T09:14:00Z",
+  "updated": "2026-10-15T08:46:23Z",
   "grants": [
     {
       "id": "early-career-awards",
@@ -778,6 +778,103 @@
       "src": "fundsforNGOs (auto-found)",
       "auto": true,
       "found": "2026-10-14"
+    },
+    {
+      "id": "e8d7f63960",
+      "title": "Royal Society Dorothy Hodgkin Fellowship 2027 (Funded)",
+      "funder": "Opportunity Desk, Africa",
+      "scope": "international",
+      "cats": [
+        "any"
+      ],
+      "type": "Fellowship",
+      "deadline": "2026-10-29",
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "Deadline: October 29, 2026 Are you a passionate early career researcher with a clear vision to carry out your own research? Are you ready to lead an independent research group? Do you have a need for flexibility that would benefit from the...",
+      "note": "Found automatically on 2026-10-15. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://opportunitydesk.org/2026/10/14/dorothy-hodgkin-fellowship-2027/",
+      "src": "Opportunity Desk, Africa (auto-found)",
+      "auto": true,
+      "found": "2026-10-15"
+    },
+    {
+      "id": "6e133b942f",
+      "title": "CFAs: Science for Crisis Response and Solutions Research Continuity Grants (Africa)",
+      "funder": "fundsforNGOs",
+      "scope": "international",
+      "cats": [
+        "any"
+      ],
+      "type": "Research grant",
+      "deadline": "2026-11-15",
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "Applications are open for the UNESCO Science for Crisis Response and Solutions (SCRS) Research Continuity Grants for Africa. This initiative aims to support researchers in resuming or completing natural-science research disrupted by...",
+      "note": "Found automatically on 2026-10-15. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://www2.fundsforngos.org/science/cfas-science-for-crisis-response-and-solutions-research-continuity-grants-africa/",
+      "src": "fundsforNGOs (auto-found)",
+      "auto": true,
+      "found": "2026-10-15"
+    },
+    {
+      "id": "b1473bcb05",
+      "title": "Call for Applications: Doctoral Dissertation Research Fellowship Program",
+      "funder": "fundsforNGOs",
+      "scope": "international",
+      "cats": [
+        "humanities",
+        "health"
+      ],
+      "type": "Fellowship",
+      "deadline": null,
+      "amount": "Up to US$12,000",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "The Doctoral Dissertation Research Fellowship, offered by the Social Science Research Council (SSRC) under the African Peacebuilding and Developmental Dynamics (APDD) Program, provides funding for doctoral candidates in Africa to conduct...",
+      "note": "Found automatically on 2026-10-15. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://www2.fundsforngos.org/individuals/doctoral-dissertation-research-fellowship-for-african-scholars/",
+      "src": "fundsforNGOs (auto-found)",
+      "auto": true,
+      "found": "2026-10-15"
+    },
+    {
+      "id": "1dfe0743dc",
+      "title": "Apply Now: Doctoral Dissertation Completion Fellowship Program",
+      "funder": "fundsforNGOs",
+      "scope": "international",
+      "cats": [
+        "humanities",
+        "health"
+      ],
+      "type": "Fellowship",
+      "deadline": null,
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "The Doctoral Dissertation Completion Fellowship, offered by the Social Science Research Council (SSRC) through the African Peacebuilding and Developmental Dynamics (APDD) program, provides financial and academic support to doctoral...",
+      "note": "Found automatically on 2026-10-15. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://www2.fundsforngos.org/individuals/doctoral-dissertation-completion-fellowship-for-african-scholars/",
+      "src": "fundsforNGOs (auto-found)",
+      "auto": true,
+      "found": "2026-10-15"
+    },
+    {
+      "id": "41ed198f31",
+      "title": "Call for Proposals: Regional Grant Opportunity for LGBTQI Organisations and Groups",
+      "funder": "fundsforNGOs",
+      "scope": "international",
+      "cats": [
+        "any"
+      ],
+      "type": "Research grant",
+      "deadline": "2026-10-31",
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "The Initiative Sankofa d’Afrique de l’Ouest (ISDAO) has launched its 9th Regional Call for Proposals, inviting applications from LGBTQI-led organizations and groups across nine West African countries. This opportunity offers financial...",
+      "note": "Found automatically on 2026-10-15. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://www2.fundsforngos.org/community-development-2/call-for-proposals-regional-grant-opportunity-for-lgbtqi-organisations-and-groups/",
+      "src": "fundsforNGOs (auto-found)",
+      "auto": true,
+      "found": "2026-10-15"
     }
   ]
 }
