@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T08:46:23Z",
+  "updated": "2026-10-16T08:42:19Z",
   "grants": [
     {
       "id": "early-career-awards",
@@ -875,6 +875,84 @@
       "src": "fundsforNGOs (auto-found)",
       "auto": true,
       "found": "2026-10-15"
+    },
+    {
+      "id": "a39358c4e9",
+      "title": "African Peacebuilding and Developmental Dynamics (APDD) Individual Research Fellowships 2027",
+      "funder": "Opportunity Desk, Africa",
+      "scope": "international",
+      "cats": [
+        "humanities",
+        "health"
+      ],
+      "type": "Fellowship",
+      "deadline": "2027-01-15",
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "Deadline: January 15, 2027 Applications are open for the African Peacebuilding and Developmental Dynamics (APDD) Individual Research Fellowships 2027. Since its inception in 2012, the Individual Research Fellowship (IRF) has served as a...",
+      "note": "Found automatically on 2026-10-16. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://opportunitydesk.org/2026/10/16/apdd-individual-research-fellowships-2027/",
+      "src": "Opportunity Desk, Africa (auto-found)",
+      "auto": true,
+      "found": "2026-10-16"
+    },
+    {
+      "id": "4d2c56ea14",
+      "title": "WWF Russell E. Train Fellowships 2027 (up to $15,000)",
+      "funder": "Opportunity Desk, Africa",
+      "scope": "international",
+      "cats": [
+        "environment"
+      ],
+      "type": "Fellowship",
+      "deadline": "2026-12-15",
+      "amount": "Up to $15,000",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "Deadline: December 15, 2026 Applications are open for the WWF Russell E. Train Fellowships 2027. EFN invites applications from the current and next generation of conservation scientists, leaders, and practitioners to pursue graduate level...",
+      "note": "Found automatically on 2026-10-16. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://opportunitydesk.org/2026/10/16/wwf-russell-e-train-fellowships-2027/",
+      "src": "Opportunity Desk, Africa (auto-found)",
+      "auto": true,
+      "found": "2026-10-16"
+    },
+    {
+      "id": "ea3330dbfb",
+      "title": "Call for Proposals – Rockefeller Foundation Cities Deliver: AI Solutions for Public Services 2026",
+      "funder": "Opportunity Desk, Africa",
+      "scope": "international",
+      "cats": [
+        "health",
+        "physical"
+      ],
+      "type": "Research grant",
+      "deadline": "2026-11-29",
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "Deadline: November 29, 2026 Proposals are invited for the Rockefeller Foundation Cities Deliver: AI Solutions for Public Services. Nearly half of the world’s population lives in cities. Public services shape those residents’ everyday...",
+      "note": "Found automatically on 2026-10-16. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://opportunitydesk.org/2026/10/15/rockefeller-foundation-cities-deliver-ai-solutions-for-public-services-2026/",
+      "src": "Opportunity Desk, Africa (auto-found)",
+      "auto": true,
+      "found": "2026-10-16"
+    },
+    {
+      "id": "7ec886940c",
+      "title": "Harrison Middleton University (HMU) Fellowship in Ideas 2027",
+      "funder": "Opportunity Desk, Africa",
+      "scope": "international",
+      "cats": [
+        "humanities"
+      ],
+      "type": "Fellowship",
+      "deadline": "2026-11-15",
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "Deadline: November 15, 2026 Applications for the Harrison Middleton University (HMU) Fellowship in Ideas 2027 are now open. The HMU Fellowship in Ideas is a writing and discussion project in the humanities designed for a recent university...",
+      "note": "Found automatically on 2026-10-16. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://opportunitydesk.org/2026/10/15/hmu-fellowship-in-ideas-2027/",
+      "src": "Opportunity Desk, Africa (auto-found)",
+      "auto": true,
+      "found": "2026-10-16"
     }
   ]
 }
