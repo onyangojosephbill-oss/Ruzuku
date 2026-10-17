@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T08:42:19Z",
+  "updated": "2026-10-17T08:12:44Z",
   "grants": [
     {
       "id": "early-career-awards",
@@ -953,6 +953,103 @@
       "src": "Opportunity Desk, Africa (auto-found)",
       "auto": true,
       "found": "2026-10-16"
+    },
+    {
+      "id": "e7a13b0337",
+      "title": "EJN Reporting Fellowships 2026 for Journalists to Cover BBNJ COP1 in New York City, USA",
+      "funder": "Opportunity Desk, Africa",
+      "scope": "international",
+      "cats": [
+        "any"
+      ],
+      "type": "Fellowship",
+      "deadline": "2026-10-27",
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "Deadline: October 27, 2026 Applications are open for the EJN Reporting Fellowships 2026 for Journalists to Cover BBNJ COP1 in New York City, USA. To ensure rich and diverse coverage of the BBNJ COP worldwide, Internews’ Earth Journalism...",
+      "note": "Found automatically on 2026-10-17. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://opportunitydesk.org/2026/10/16/ejn-reporting-fellowships-2026-for-journalists-to-cover-bbnj-cop1/",
+      "src": "Opportunity Desk, Africa (auto-found)",
+      "auto": true,
+      "found": "2026-10-17"
+    },
+    {
+      "id": "9a92c7df46",
+      "title": "John S. Knight Journalism Fellowships 2027-2028 ($135,000 stipend)",
+      "funder": "Opportunity Desk, Africa",
+      "scope": "international",
+      "cats": [
+        "any"
+      ],
+      "type": "Fellowship",
+      "deadline": "2026-12-02",
+      "amount": "$135,000",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "Deadline: December 2, 2026 Applications are open for the John S. Knight Journalism Fellowships 2027-2028. At the John S. Knight Journalism Fellowships, they believe the people closest to journalism’s hardest problems are the ones best...",
+      "note": "Found automatically on 2026-10-17. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://opportunitydesk.org/2026/10/16/john-s-knight-journalism-fellowships-2027-2028/",
+      "src": "Opportunity Desk, Africa (auto-found)",
+      "auto": true,
+      "found": "2026-10-17"
+    },
+    {
+      "id": "71f09d4f3d",
+      "title": "Harvard Kennedy School Center for Public Leadership Equity Fellowship 2027-2028",
+      "funder": "Opportunity Desk, Africa",
+      "scope": "international",
+      "cats": [
+        "any"
+      ],
+      "type": "Fellowship",
+      "deadline": "2026-12-01",
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "Deadline: December 1, 2026 Ready to build a better future? Apply for the Harvard Kennedy School Center for Public Leadership Equity Fellowship 2027-2028. Fellows will participate in a yearlong co-curricular program designed by Harvard...",
+      "note": "Found automatically on 2026-10-17. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://opportunitydesk.org/2026/10/16/hks-cpl-equity-fellowship-2027-2028/",
+      "src": "Opportunity Desk, Africa (auto-found)",
+      "auto": true,
+      "found": "2026-10-17"
+    },
+    {
+      "id": "2a2bbe209b",
+      "title": "Japan Fund for Global Environment Grants Program",
+      "funder": "fundsforNGOs",
+      "scope": "international",
+      "cats": [
+        "health",
+        "environment"
+      ],
+      "type": "Research grant",
+      "deadline": null,
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "The Japan Fund for Global Environment (JFGE) offers grants to NGOs and NPOs engaged in environmental activities. These grants aim to support projects that promote environmental conservation, particularly in developing countries. The...",
+      "note": "Found automatically on 2026-10-17. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://www2.fundsforngos.org/environment-2/japan-fund-for-global-environment-grants-program/",
+      "src": "fundsforNGOs (auto-found)",
+      "auto": true,
+      "found": "2026-10-17"
+    },
+    {
+      "id": "dd039e3b47",
+      "title": "Individual Research Fellowships for African Peacebuilding Scholars",
+      "funder": "fundsforNGOs",
+      "scope": "international",
+      "cats": [
+        "humanities",
+        "health"
+      ],
+      "type": "Fellowship",
+      "deadline": null,
+      "amount": "Up to $12,000",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "The Social Science Research Council's (SSRC) African Peacebuilding and Developmental Dynamics (APDD) program is offering Individual Research Fellowships (IRF) to support African researchers, policy analysts, and practitioners. These...",
+      "note": "Found automatically on 2026-10-17. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://www2.fundsforngos.org/individuals/individual-research-fellowships-for-african-peacebuilding-scholars/",
+      "src": "fundsforNGOs (auto-found)",
+      "auto": true,
+      "found": "2026-10-17"
     }
   ]
 }
