@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T08:12:44Z",
+  "updated": "2026-10-19T09:31:44Z",
   "grants": [
     {
       "id": "early-career-awards",
@@ -1050,6 +1050,25 @@
       "src": "fundsforNGOs (auto-found)",
       "auto": true,
       "found": "2026-10-17"
+    },
+    {
+      "id": "74c09831e5",
+      "title": "CFPs: FBIS Africa Freshwater Biodiversity Data Mobilisation Small Grants",
+      "funder": "fundsforNGOs",
+      "scope": "international",
+      "cats": [
+        "environment"
+      ],
+      "type": "Research grant",
+      "deadline": "2026-11-09",
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "The Freshwater Biodiversity Information System (FBIS) Africa project is offering small grants to support the mobilisation and publication of existing freshwater biodiversity occurrence data from Africa. Managed by the Freshwater Research...",
+      "note": "Found automatically on 2026-10-19. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://www2.fundsforngos.org/cat/fbis-africa-freshwater-biodiversity-data-mobilisation-small-grants/",
+      "src": "fundsforNGOs (auto-found)",
+      "auto": true,
+      "found": "2026-10-19"
     }
   ]
 }
