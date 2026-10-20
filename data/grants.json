@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T09:31:44Z",
+  "updated": "2026-10-20T09:04:43Z",
   "grants": [
     {
       "id": "early-career-awards",
@@ -1069,6 +1069,44 @@
       "src": "fundsforNGOs (auto-found)",
       "auto": true,
       "found": "2026-10-19"
+    },
+    {
+      "id": "691177ed87",
+      "title": "MOVE-ComCashew Call for Proposals from Emerging Agripreneurs",
+      "funder": "Opportunity Desk, Africa",
+      "scope": "international",
+      "cats": [
+        "environment"
+      ],
+      "type": "Research grant",
+      "deadline": "2026-10-30",
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "Deadline: October 30, 2026 Submit your innovative ideas focused on the Cashew value chain. The e-MOVE is inviting young and emerging entrepreneurs within the cashew sector to transform their ideas into investment-ready, climate-smart...",
+      "note": "Found automatically on 2026-10-20. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://opportunitydesk.org/2026/10/19/move-comcashew-call-for-proposals/",
+      "src": "Opportunity Desk, Africa (auto-found)",
+      "auto": true,
+      "found": "2026-10-20"
+    },
+    {
+      "id": "749496875f",
+      "title": "Knight-Wallace Fellowships 2027-2028 (Stipend available)",
+      "funder": "Opportunity Desk, Africa",
+      "scope": "international",
+      "cats": [
+        "any"
+      ],
+      "type": "Fellowship",
+      "deadline": "2026-12-01",
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "Deadline: December 1, 2026 (Int’l applicants) / February 1, 2027 (U.S. applicants) Applications are open for the Knight-Wallace Fellowships 2027-2028. The Knight-Wallace Fellowships offer accomplished journalists two rare commodities: time...",
+      "note": "Found automatically on 2026-10-20. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://opportunitydesk.org/2026/10/19/knight-wallace-fellowships-2027-2028/",
+      "src": "Opportunity Desk, Africa (auto-found)",
+      "auto": true,
+      "found": "2026-10-20"
     }
   ]
 }
