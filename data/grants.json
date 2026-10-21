@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T09:04:43Z",
+  "updated": "2026-10-21T09:03:52Z",
   "grants": [
     {
       "id": "early-career-awards",
@@ -1107,6 +1107,63 @@
       "src": "Opportunity Desk, Africa (auto-found)",
       "auto": true,
       "found": "2026-10-20"
+    },
+    {
+      "id": "15150ba8d4",
+      "title": "Jane Street Graduate Research Fellowship (GRF) 2027",
+      "funder": "Opportunity Desk, Africa",
+      "scope": "international",
+      "cats": [
+        "physical"
+      ],
+      "type": "Fellowship",
+      "deadline": "2026-11-13",
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "Deadline: November 13, 2026 Applications are open for the Jane Street Graduate Research Fellowship (GRF) 2027. The Jane Street Graduate Research Fellowship (GRF) supports exceptional doctoral students currently pursuing a PhD in electrical...",
+      "note": "Found automatically on 2026-10-21. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://opportunitydesk.org/2026/10/20/jane-street-graduate-research-fellowship-2027/",
+      "src": "Opportunity Desk, Africa (auto-found)",
+      "auto": true,
+      "found": "2026-10-21"
+    },
+    {
+      "id": "08ac922b8b",
+      "title": "Yehuda Elkana Fellowship 2027 at Central European University",
+      "funder": "Opportunity Desk, Africa",
+      "scope": "international",
+      "cats": [
+        "humanities"
+      ],
+      "type": "Fellowship",
+      "deadline": "2027-01-15",
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "Deadline: January 15, 2027 Applications are open for the Yehuda Elkana Fellowship 2027. Are you interested in pursuing doctoral study and research at CEU? Are you passionate about researching higher education? Central European University...",
+      "note": "Found automatically on 2026-10-21. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://opportunitydesk.org/2026/10/20/yehuda-elkana-fellowship-2027/",
+      "src": "Opportunity Desk, Africa (auto-found)",
+      "auto": true,
+      "found": "2026-10-21"
+    },
+    {
+      "id": "2096abdb51",
+      "title": "Project Kuongoza for Women and Girls 2026/2027",
+      "funder": "Opportunity Desk, Africa",
+      "scope": "international",
+      "cats": [
+        "physical"
+      ],
+      "type": "Fellowship",
+      "deadline": "2026-11-30",
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "Deadline: November 30, 2026 Applications are open for the Project Kuongoza for Women and Girls 2026/2027. Project Kuongoza is a Mentorship and Fellowship program that empowers young women and girls to lead and gain practical experience in...",
+      "note": "Found automatically on 2026-10-21. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://opportunitydesk.org/2026/10/20/project-kuongoza-for-women-and-girls-2026-2027/",
+      "src": "Opportunity Desk, Africa (auto-found)",
+      "auto": true,
+      "found": "2026-10-21"
     }
   ]
 }
