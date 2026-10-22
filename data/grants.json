@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T09:03:52Z",
+  "updated": "2026-10-22T09:06:14Z",
   "grants": [
     {
       "id": "early-career-awards",
@@ -1164,6 +1164,64 @@
       "src": "Opportunity Desk, Africa (auto-found)",
       "auto": true,
       "found": "2026-10-21"
+    },
+    {
+      "id": "781d979450",
+      "title": "CDC Public Health Informatics Fellowship Program 2027",
+      "funder": "Opportunity Desk, Africa",
+      "scope": "international",
+      "cats": [
+        "health",
+        "physical"
+      ],
+      "type": "Fellowship",
+      "deadline": "2026-11-06",
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "Deadline: November 6, 2026 Applications are open for the CDC Public Health Informatics Fellowship Program 2027. Public health informatics is the systematic application of knowledge about systems that capture, manage, analyze, and use...",
+      "note": "Found automatically on 2026-10-22. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://opportunitydesk.org/2026/10/21/cdc-public-health-informatics-fellowship-program-2027/",
+      "src": "Opportunity Desk, Africa (auto-found)",
+      "auto": true,
+      "found": "2026-10-22"
+    },
+    {
+      "id": "5177db6ad6",
+      "title": "Institut für Auslandsbeziehungen CrossCulture Programme (CCP) Fellowships 2027",
+      "funder": "Opportunity Desk, Africa",
+      "scope": "international",
+      "cats": [
+        "humanities"
+      ],
+      "type": "Fellowship",
+      "deadline": "2026-12-08",
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "Deadline: December 8, 2026 Applications are invited for the Institut für Auslandsbeziehungen CrossCulture Programme (CCP) Fellowships 2027. The CrossCulture Programme (CCP) funds 50 to 60 professionals and volunteers from over 40 countries...",
+      "note": "Found automatically on 2026-10-22. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://opportunitydesk.org/2026/10/21/ifa-crossculture-programme-fellowships-2027/",
+      "src": "Opportunity Desk, Africa (auto-found)",
+      "auto": true,
+      "found": "2026-10-22"
+    },
+    {
+      "id": "b1c7b39753",
+      "title": "UNESCO Science for Crisis Response & Solutions Research Continuity Grants for Africa 2026 (up to $2,000)",
+      "funder": "Opportunity Desk, Africa",
+      "scope": "international",
+      "cats": [
+        "health"
+      ],
+      "type": "Research grant",
+      "deadline": "2026-11-15",
+      "amount": "Up to $2,000",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "Deadline: November 15, 2026 Applications are open for the UNESCO Science for Crisis Response & Solutions Research Continuity Grants for Africa 2026. This is a new small-grants initiative supporting the continuity of natural-science...",
+      "note": "Found automatically on 2026-10-22. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://opportunitydesk.org/2026/10/21/unesco-scrs-grants-for-africa-2026/",
+      "src": "Opportunity Desk, Africa (auto-found)",
+      "auto": true,
+      "found": "2026-10-22"
     }
   ]
 }
