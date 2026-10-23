@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T09:06:14Z",
+  "updated": "2026-10-23T09:00:37Z",
   "grants": [
     {
       "id": "early-career-awards",
@@ -1222,6 +1222,83 @@
       "src": "Opportunity Desk, Africa (auto-found)",
       "auto": true,
       "found": "2026-10-22"
+    },
+    {
+      "id": "9edb024cb0",
+      "title": "AIRC Non-Resident Research Fellowship in AI and Social Sciences 2027",
+      "funder": "Opportunity Desk, Africa",
+      "scope": "international",
+      "cats": [
+        "humanities",
+        "physical"
+      ],
+      "type": "Fellowship",
+      "deadline": "2026-10-25",
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "Deadline: October 25, 2026 Applications are open for the AIRC Non-Resident Research Fellowship in AI and Social Sciences 2027. Artificial intelligence is reshaping how people work, learn, communicate, make decisions and interact with...",
+      "note": "Found automatically on 2026-10-23. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://opportunitydesk.org/2026/10/22/airc-non-resident-research-fellowship-in-ai-and-social-sciences-2027/",
+      "src": "Opportunity Desk, Africa (auto-found)",
+      "auto": true,
+      "found": "2026-10-23"
+    },
+    {
+      "id": "8c24ca1038",
+      "title": "WIPO Global Innovation Index Fellowship 2026/2027",
+      "funder": "Opportunity Desk, Africa",
+      "scope": "international",
+      "cats": [
+        "physical"
+      ],
+      "type": "Fellowship",
+      "deadline": "2026-10-30",
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "Deadline: October 30, 2026 Applications are open for the WIPO Global Innovation Index Fellowship 2026/2027. Fellowships aim to provide fellows with experience to strengthen their knowledge and professional competence, which they can apply...",
+      "note": "Found automatically on 2026-10-23. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://opportunitydesk.org/2026/10/22/wipo-global-innovation-index-fellowship-2026-2027/",
+      "src": "Opportunity Desk, Africa (auto-found)",
+      "auto": true,
+      "found": "2026-10-23"
+    },
+    {
+      "id": "15cfdaeed4",
+      "title": "Call for Proposals: Commonwealth Blue Charter Incubator Round II (up to £50,000)",
+      "funder": "Opportunity Desk, Africa",
+      "scope": "international",
+      "cats": [
+        "environment"
+      ],
+      "type": "Research grant",
+      "deadline": "2026-12-11",
+      "amount": "Up to £50,000",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "Deadline: December 11, 2026 Proposals are invited for the Commonwealth Blue Charter Incubator Round II. Addressing major ocean challenges and building a stronger pipeline for sustainable blue economies requires ambitious, government-led...",
+      "note": "Found automatically on 2026-10-23. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://opportunitydesk.org/2026/10/22/commonwealth-blue-charter-incubator-round-ii/",
+      "src": "Opportunity Desk, Africa (auto-found)",
+      "auto": true,
+      "found": "2026-10-23"
+    },
+    {
+      "id": "804a67385b",
+      "title": "Mandela Washington Fellowship Reciprocal Exchange Program (US)",
+      "funder": "fundsforNGOs",
+      "scope": "international",
+      "cats": [
+        "any"
+      ],
+      "type": "Fellowship",
+      "deadline": "2026-11-11",
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "The Mandela Washington Fellowship's 2027 Reciprocal Exchange Component is now open for applications. This initiative, offered by the U.S. Department of State and administered by IREX, provides U.S. professionals the opportunity to...",
+      "note": "Found automatically on 2026-10-23. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://www2.fundsforngos.org/individuals/mandela-washington-fellowship-2027-reciprocal-exchange-component/",
+      "src": "fundsforNGOs (auto-found)",
+      "auto": true,
+      "found": "2026-10-23"
     }
   ]
 }
