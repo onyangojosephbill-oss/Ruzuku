@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T09:00:37Z",
+  "updated": "2026-10-24T08:34:42Z",
   "grants": [
     {
       "id": "early-career-awards",
@@ -1299,6 +1299,45 @@
       "src": "fundsforNGOs (auto-found)",
       "auto": true,
       "found": "2026-10-23"
+    },
+    {
+      "id": "931f5360a9",
+      "title": "Columbia University Italian Academy Fellowship Program 2027-2028",
+      "funder": "Opportunity Desk, Africa",
+      "scope": "international",
+      "cats": [
+        "humanities"
+      ],
+      "type": "Fellowship",
+      "deadline": "2026-12-04",
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "Deadline: December 4, 2026 Applications are open for the Columbia University Italian Academy Fellowship Program 2027-2028. The multi-disciplinary Fellowship Program is the heart of the work of the Italian Academy. Fellowships are open to...",
+      "note": "Found automatically on 2026-10-24. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://opportunitydesk.org/2026/10/23/columbia-university-italian-academy-fellowship-2027-2028/",
+      "src": "Opportunity Desk, Africa (auto-found)",
+      "auto": true,
+      "found": "2026-10-24"
+    },
+    {
+      "id": "f466fa5302",
+      "title": "John G. Bene Fellowship for Forest Restoration and Food System Transformation (Canada)",
+      "funder": "fundsforNGOs",
+      "scope": "international",
+      "cats": [
+        "humanities",
+        "environment"
+      ],
+      "type": "Fellowship",
+      "deadline": "2026-11-30",
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "The International Development Research Centre (IDRC) invites applications for the John G. Bene Fellowship 2026, which supports Canadians and permanent residents pursuing master's or doctoral studies at a Canadian university. This...",
+      "note": "Found automatically on 2026-10-24. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://www2.fundsforngos.org/community-development-2/john-g-bene-fellowship-2026-funding-for-community-led-nature-based/",
+      "src": "fundsforNGOs (auto-found)",
+      "auto": true,
+      "found": "2026-10-24"
     }
   ]
 }
