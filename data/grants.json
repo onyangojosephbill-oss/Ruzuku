@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T08:34:42Z",
+  "updated": "2026-10-25T08:53:44Z",
   "grants": [
     {
       "id": "early-career-awards",
@@ -1338,6 +1338,26 @@
       "src": "fundsforNGOs (auto-found)",
       "auto": true,
       "found": "2026-10-24"
+    },
+    {
+      "id": "471beb7567",
+      "title": "IDM-Africa Fellowship Programme 2027",
+      "funder": "Opportunity Desk, Africa",
+      "scope": "international",
+      "cats": [
+        "humanities",
+        "health"
+      ],
+      "type": "Fellowship",
+      "deadline": "2026-10-30",
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "Deadline: October 30, 2026 Applications are open for the IDM-Africa Fellowship Programme 2027. IDM-Africa invites applications from early- and mid-career scientists in sub-Saharan Africa (SSA) for its annual Fellowship Programme in...",
+      "note": "Found automatically on 2026-10-25. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://opportunitydesk.org/2026/10/24/idm-africa-fellowship-programme-2027/",
+      "src": "Opportunity Desk, Africa (auto-found)",
+      "auto": true,
+      "found": "2026-10-25"
     }
   ]
 }
