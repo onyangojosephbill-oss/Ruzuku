@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T08:53:44Z",
+  "updated": "2026-10-26T09:36:20Z",
   "grants": [
     {
       "id": "early-career-awards",
@@ -1358,6 +1358,44 @@
       "src": "Opportunity Desk, Africa (auto-found)",
       "auto": true,
       "found": "2026-10-25"
+    },
+    {
+      "id": "c273901a86",
+      "title": "Call for Applications: Public-Private Joint Mission for Promoting Trade and Investment in Africa (Japan)",
+      "funder": "fundsforNGOs",
+      "scope": "international",
+      "cats": [
+        "any"
+      ],
+      "type": "Research grant",
+      "deadline": "2026-11-09",
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "The Ministry of Foreign Affairs of Japan is inviting applications for the FY2026 Public-Private Joint Mission to promote trade and investment between Japan and Africa. This initiative will take place in Zimbabwe and Rwanda from 9 January...",
+      "note": "Found automatically on 2026-10-26. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://www2.fundsforngos.org/cat/fy2026-public-private-joint-mission-for-promoting-trade-and-investment-in-2/",
+      "src": "fundsforNGOs (auto-found)",
+      "auto": true,
+      "found": "2026-10-26"
+    },
+    {
+      "id": "71539c6296",
+      "title": "Applications open for Dissertation Fieldwork Grant Program",
+      "funder": "fundsforNGOs",
+      "scope": "international",
+      "cats": [
+        "humanities"
+      ],
+      "type": "Research grant",
+      "deadline": null,
+      "amount": "$25,000",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "The Wenner-Gren Foundation invites applications for its Dissertation Fieldwork Grant, designed to support doctoral students in anthropology conducting thesis research that advances the understanding of humanity. With a maximum award of...",
+      "note": "Found automatically on 2026-10-26. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://www2.fundsforngos.org/individuals/applications-open-for-dissertation-fieldwork-grant-program/",
+      "src": "fundsforNGOs (auto-found)",
+      "auto": true,
+      "found": "2026-10-26"
     }
   ]
 }
