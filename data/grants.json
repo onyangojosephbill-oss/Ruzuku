@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T09:36:20Z",
+  "updated": "2026-10-27T09:32:10Z",
   "grants": [
     {
       "id": "early-career-awards",
@@ -1396,6 +1396,25 @@
       "src": "fundsforNGOs (auto-found)",
       "auto": true,
       "found": "2026-10-26"
+    },
+    {
+      "id": "ea70f9f30e",
+      "title": "Sir Cyril Taylor Young African Leaders Program 2027 (Fully-funded)",
+      "funder": "Opportunity Desk, Africa",
+      "scope": "international",
+      "cats": [
+        "environment"
+      ],
+      "type": "Research grant",
+      "deadline": "2026-11-19",
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "Deadline: November 19, 2026 Applications are open for the Sir Cyril Taylor Young African Leaders Program 2027. With generous grant support from the Sir Cyril Taylor Charitable Foundation, this initiative continues its mission to empower...",
+      "note": "Found automatically on 2026-10-27. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://opportunitydesk.org/2026/10/26/sir-cyril-taylor-young-african-leaders-program-2027/",
+      "src": "Opportunity Desk, Africa (auto-found)",
+      "auto": true,
+      "found": "2026-10-27"
     }
   ]
 }
