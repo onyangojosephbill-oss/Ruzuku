@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T09:32:10Z",
+  "updated": "2026-10-28T10:16:37Z",
   "grants": [
     {
       "id": "early-career-awards",
@@ -1415,6 +1415,64 @@
       "src": "Opportunity Desk, Africa (auto-found)",
       "auto": true,
       "found": "2026-10-27"
+    },
+    {
+      "id": "ab90ceb0ab",
+      "title": "CODESRIA Research Grants on University Ecosystems 2027",
+      "funder": "Opportunity Desk, Africa",
+      "scope": "international",
+      "cats": [
+        "humanities"
+      ],
+      "type": "Research grant",
+      "deadline": "2027-01-16",
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "Deadline: January 16, 2027 Applications are open for the CODESRIA Research Grants on University Ecosystems 2027. With funding support from the Andrew Carnegie Foundation, this current call is seeking proposals from researchers in African...",
+      "note": "Found automatically on 2026-10-28. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://opportunitydesk.org/2026/10/27/codesria-research-grants-on-university-ecosystems-2027/",
+      "src": "Opportunity Desk, Africa (auto-found)",
+      "auto": true,
+      "found": "2026-10-28"
+    },
+    {
+      "id": "86bbaf4a66",
+      "title": "British Council Green & Digital Employability and Enterprise Programme 2027 (£150,000 grant)",
+      "funder": "Opportunity Desk, grants",
+      "scope": "international",
+      "cats": [
+        "humanities",
+        "physical"
+      ],
+      "type": "Research grant",
+      "deadline": "2026-11-17",
+      "amount": "£150,000",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "Deadline: November 17, 2026 Applications are open for the British Council Green & Digital Employability and Enterprise Programme 2027. GDEEp is the British Council’s pilot workforce development programme that will support a minimum of 50...",
+      "note": "Found automatically on 2026-10-28. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://opportunitydesk.org/2026/10/28/british-council-green-digital-employability-and-enterprise-programme-2027/",
+      "src": "Opportunity Desk, grants (auto-found)",
+      "auto": true,
+      "found": "2026-10-28"
+    },
+    {
+      "id": "cb3a4b0880",
+      "title": "Call for Applications: Create AI Agents Championship Grant",
+      "funder": "fundsforNGOs",
+      "scope": "international",
+      "cats": [
+        "physical"
+      ],
+      "type": "Research grant",
+      "deadline": null,
+      "amount": "$150,000",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "The Create AI Agents Championship, hosted by the Dubai Chamber of Digital Economy, invites innovators worldwide to develop AI Agents addressing real-world challenges. Participants compete in four categories for a chance to win a $150,000...",
+      "note": "Found automatically on 2026-10-28. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://www2.fundsforngos.org/individuals/create-ai-agents-championship-2026-compete-for-150-000-grants/",
+      "src": "fundsforNGOs (auto-found)",
+      "auto": true,
+      "found": "2026-10-28"
     }
   ]
 }
