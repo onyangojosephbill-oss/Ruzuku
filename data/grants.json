@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T10:16:37Z",
+  "updated": "2026-10-29T10:40:28Z",
   "grants": [
     {
       "id": "early-career-awards",
@@ -1473,6 +1473,44 @@
       "src": "fundsforNGOs (auto-found)",
       "auto": true,
       "found": "2026-10-28"
+    },
+    {
+      "id": "5e7890b4e0",
+      "title": "Heinrich Böll Foundation Feminist Futures Fellowship 2027",
+      "funder": "Opportunity Desk, Africa",
+      "scope": "international",
+      "cats": [
+        "any"
+      ],
+      "type": "Fellowship",
+      "deadline": "2026-11-02",
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "Deadline: November 2, 2026 Applications are open for the Heinrich Böll Foundation Feminist Futures Fellowship 2027. The Heinrich Böll Foundation’s (HBS), Washington DC Office is pleased to announce the fifth iteration of its CSW...",
+      "note": "Found automatically on 2026-10-29. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://opportunitydesk.org/2026/10/29/heinrich-boll-foundation-feminist-futures-fellowship-2027/",
+      "src": "Opportunity Desk, Africa (auto-found)",
+      "auto": true,
+      "found": "2026-10-29"
+    },
+    {
+      "id": "d93b55fcd6",
+      "title": "Hans De Wit Fellowship 2027 (stipend available)",
+      "funder": "Opportunity Desk, Africa",
+      "scope": "international",
+      "cats": [
+        "humanities"
+      ],
+      "type": "Fellowship",
+      "deadline": "2026-11-15",
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "Deadline: November 15, 2026 Applications are open for the Hans De Wit Fellowship 2027. Partially funded with seed funding generously donated by World Education Services, the Hans de Wit Fellowship was established in 2022 to support the...",
+      "note": "Found automatically on 2026-10-29. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://opportunitydesk.org/2026/10/29/hans-de-wit-fellowship-2027/",
+      "src": "Opportunity Desk, Africa (auto-found)",
+      "auto": true,
+      "found": "2026-10-29"
     }
   ]
 }
