@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T10:41:14Z",
+  "updated": "2026-10-31T10:08:09Z",
   "grants": [
     {
       "id": "early-career-awards",
@@ -1590,6 +1590,25 @@
       "src": "fundsforNGOs (auto-found)",
       "auto": true,
       "found": "2026-10-30"
+    },
+    {
+      "id": "eefce49afb",
+      "title": "Global Burden of Disease (GBD) Fellowship 2027",
+      "funder": "Opportunity Desk, Africa",
+      "scope": "international",
+      "cats": [
+        "health"
+      ],
+      "type": "Fellowship",
+      "deadline": "2026-12-21",
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "Deadline: December 21, 2026 Applications are open for the Global Burden of Disease (GBD) Fellowship 2027. The GBD Fellowship is an early-career, cohort-based postdoctoral training program at the Institute for Health Metrics and Evaluation...",
+      "note": "Found automatically on 2026-10-31. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://opportunitydesk.org/2026/10/30/gbd-fellowship-2027/",
+      "src": "Opportunity Desk, Africa (auto-found)",
+      "auto": true,
+      "found": "2026-10-31"
     }
   ]
 }
