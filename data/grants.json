@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T10:08:09Z",
+  "updated": "2026-11-03T11:33:18Z",
   "grants": [
     {
       "id": "early-career-awards",
@@ -1609,6 +1609,25 @@
       "src": "Opportunity Desk, Africa (auto-found)",
       "auto": true,
       "found": "2026-10-31"
+    },
+    {
+      "id": "e633286724",
+      "title": "Applications open for 2027 Language Legacies Grant Program",
+      "funder": "fundsforNGOs",
+      "scope": "international",
+      "cats": [
+        "humanities"
+      ],
+      "type": "Research grant",
+      "deadline": null,
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "The Endangered Language Fund (ELF) invites applications for the 2027 Language Legacies Grant Program. This initiative supports global documentation and revitalization efforts for endangered languages. Open to community members and...",
+      "note": "Found automatically on 2026-11-03. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://www2.fundsforngos.org/individuals/applications-open-for-2027-language-legacies-grant-program/",
+      "src": "fundsforNGOs (auto-found)",
+      "auto": true,
+      "found": "2026-11-03"
     }
   ]
 }
