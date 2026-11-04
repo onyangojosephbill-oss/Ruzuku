@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T11:33:18Z",
+  "updated": "2026-11-04T11:48:30Z",
   "grants": [
     {
       "id": "early-career-awards",
@@ -1628,6 +1628,45 @@
       "src": "fundsforNGOs (auto-found)",
       "auto": true,
       "found": "2026-11-03"
+    },
+    {
+      "id": "715a5eb4f3",
+      "title": "Harvard Pollman Fellowship in Real Estate and Urban Development 2027 (up to $55,000)",
+      "funder": "Opportunity Desk, Africa",
+      "scope": "international",
+      "cats": [
+        "any"
+      ],
+      "type": "Fellowship",
+      "deadline": "2027-02-18",
+      "amount": "Up to $55,000",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "Deadline: February 18, 2027 Applications are open for the Harvard Pollman Fellowship in Real Estate and Urban Development 2027. Established in 2002 through the generous gift of Harold A. Pollman, the Pollman Fellowship in Real Estate and...",
+      "note": "Found automatically on 2026-11-04. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://opportunitydesk.org/2026/11/03/harvard-pollman-fellowship-in-real-estate-and-urban-development-2027/",
+      "src": "Opportunity Desk, Africa (auto-found)",
+      "auto": true,
+      "found": "2026-11-04"
+    },
+    {
+      "id": "3045be96c2",
+      "title": "Mastercard Foundation EdTech Fellowship Uganda Cohort 2",
+      "funder": "Opportunity Desk, Africa",
+      "scope": "international",
+      "cats": [
+        "humanities",
+        "environment"
+      ],
+      "type": "Fellowship",
+      "deadline": "2026-11-26",
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "Deadline: November 26, 2026 Applications are open for the Mastercard Foundation EdTech Fellowship Uganda Cohort 2. The Mastercard Foundation EdTech Fellowship, Uganda, implemented by Hive Colab in partnership with the Mastercard...",
+      "note": "Found automatically on 2026-11-04. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://opportunitydesk.org/2026/11/03/mastercard-foundation-edtech-fellowship-uganda-cohort-2/",
+      "src": "Opportunity Desk, Africa (auto-found)",
+      "auto": true,
+      "found": "2026-11-04"
     }
   ]
 }
