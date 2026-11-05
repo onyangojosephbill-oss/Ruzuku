@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T11:48:30Z",
+  "updated": "2026-11-05T11:47:22Z",
   "grants": [
     {
       "id": "early-career-awards",
@@ -1667,6 +1667,45 @@
       "src": "Opportunity Desk, Africa (auto-found)",
       "auto": true,
       "found": "2026-11-04"
+    },
+    {
+      "id": "b4fcc10153",
+      "title": "EDSAFE AI Fellowship 2027",
+      "funder": "Opportunity Desk, Africa",
+      "scope": "international",
+      "cats": [
+        "humanities",
+        "physical"
+      ],
+      "type": "Fellowship",
+      "deadline": "2026-11-30",
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "Deadline: November 30, 2026 Applications for the EDSAFE AI Fellowship 2027 are now open. The EDSAFE AI Fellowship is a leadership development program designed to connect and empower underrepresented thought leaders in artificial...",
+      "note": "Found automatically on 2026-11-05. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://opportunitydesk.org/2026/11/04/edsafe-ai-fellowship-2027/",
+      "src": "Opportunity Desk, Africa (auto-found)",
+      "auto": true,
+      "found": "2026-11-05"
+    },
+    {
+      "id": "197ee9d1a6",
+      "title": "Institute for Policy Integrity Economic Fellowship 2027",
+      "funder": "Opportunity Desk, Africa",
+      "scope": "international",
+      "cats": [
+        "humanities"
+      ],
+      "type": "Fellowship",
+      "deadline": "2026-11-27",
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "Deadline: November 27, 2026 Applications are open for the Institute for Policy Integrity Economic Fellowship 2027. The Institute for Policy Integrity is seeking applicants for one or two full-time two-year postdoctoral research fellowships...",
+      "note": "Found automatically on 2026-11-05. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://opportunitydesk.org/2026/11/04/institute-for-policy-integrity-economic-fellowship-2027/",
+      "src": "Opportunity Desk, Africa (auto-found)",
+      "auto": true,
+      "found": "2026-11-05"
     }
   ]
 }
