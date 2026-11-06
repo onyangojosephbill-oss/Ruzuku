@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T11:47:22Z",
+  "updated": "2026-11-06T11:44:05Z",
   "grants": [
     {
       "id": "early-career-awards",
@@ -1706,6 +1706,82 @@
       "src": "Opportunity Desk, Africa (auto-found)",
       "auto": true,
       "found": "2026-11-05"
+    },
+    {
+      "id": "8a02ac3ff2",
+      "title": "CRASSH Visiting Fellowships for Scholars from the Global South 2027 (Funded)",
+      "funder": "Opportunity Desk, Africa",
+      "scope": "international",
+      "cats": [
+        "humanities"
+      ],
+      "type": "Fellowship",
+      "deadline": "2027-01-22",
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "Deadline: January 22, 2027 Applications are open for the CRASSH Visiting Fellowships for Scholars from the Global South 2027. The Centre for Research in the Arts, Humanities and Social Sciences (CRASSH) at the University of Cambridge is...",
+      "note": "Found automatically on 2026-11-06. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://opportunitydesk.org/2026/11/05/crassh-visiting-fellowships-for-scholars-from-the-global-south-2027/",
+      "src": "Opportunity Desk, Africa (auto-found)",
+      "auto": true,
+      "found": "2026-11-06"
+    },
+    {
+      "id": "29d408033a",
+      "title": "Canada Fund for Local Initiatives – Vanuatu 2026",
+      "funder": "fundsforNGOs",
+      "scope": "international",
+      "cats": [
+        "any"
+      ],
+      "type": "Research grant",
+      "deadline": "2026-12-15",
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "The High Commission of Canada in Australia has announced the call for proposals for the Canada Fund for Local Initiatives (CFLI) for Vanuatu. This initiative offers financial support for small-scale, high-impact projects in developing...",
+      "note": "Found automatically on 2026-11-06. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://www2.fundsforngos.org/community-development-2/canada-fund-for-local-initiatives-vanuatu-2026-funding-opportunity/",
+      "src": "fundsforNGOs (auto-found)",
+      "auto": true,
+      "found": "2026-11-06"
+    },
+    {
+      "id": "6fa1019b86",
+      "title": "Request for Applications: CEGA Fellowship Program",
+      "funder": "fundsforNGOs",
+      "scope": "international",
+      "cats": [
+        "any"
+      ],
+      "type": "Fellowship",
+      "deadline": "2027-01-17",
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "The Center for Effective Global Action (CEGA) invites applications for its 2027-2028 Fellowship Program, aimed at African researchers and practitioners eager to advance their skills in impact evaluation. This program offers opportunities...",
+      "note": "Found automatically on 2026-11-06. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://www2.fundsforngos.org/individuals/cega-fellowship-program-2027-2028-call-for-applications/",
+      "src": "fundsforNGOs (auto-found)",
+      "auto": true,
+      "found": "2026-11-06"
+    },
+    {
+      "id": "2d36785bc8",
+      "title": "RFPs: Concern Global Citizenship Education Small Grants Scheme (Ireland)",
+      "funder": "fundsforNGOs",
+      "scope": "international",
+      "cats": [
+        "humanities"
+      ],
+      "type": "Research grant",
+      "deadline": null,
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "The Concern Small Grants Scheme for Global Citizenship Education Projects is now open for applications. This initiative, organized by Concern Worldwide, supports organizations delivering Global Citizenship Education (GCE) projects across...",
+      "note": "Found automatically on 2026-11-06. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://www2.fundsforngos.org/education-2/concern-small-grants-scheme-for-global-citizenship-education-projects/",
+      "src": "fundsforNGOs (auto-found)",
+      "auto": true,
+      "found": "2026-11-06"
     }
   ]
 }
