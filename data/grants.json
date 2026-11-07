@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T11:44:05Z",
+  "updated": "2026-11-07T10:50:54Z",
   "grants": [
     {
       "id": "early-career-awards",
@@ -1782,6 +1782,25 @@
       "src": "fundsforNGOs (auto-found)",
       "auto": true,
       "found": "2026-11-06"
+    },
+    {
+      "id": "6f2e4fdd37",
+      "title": "International Blue Carbon Institute (IBCI) Fellowship Program 2027 ($60,000 grant)",
+      "funder": "Opportunity Desk, Africa",
+      "scope": "international",
+      "cats": [
+        "environment"
+      ],
+      "type": "Fellowship",
+      "deadline": "2026-11-23",
+      "amount": "$60,000",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "Deadline: November 23, 2026 Applications for the International Blue Carbon Institute (IBCI) Fellowship Program 2027 are now open. The International Blue Carbon Institute (IBCI) Fellowship program advances the conservation, restoration, and...",
+      "note": "Found automatically on 2026-11-07. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://opportunitydesk.org/2026/11/06/ibci-fellowship-program-2027/",
+      "src": "Opportunity Desk, Africa (auto-found)",
+      "auto": true,
+      "found": "2026-11-07"
     }
   ]
 }
