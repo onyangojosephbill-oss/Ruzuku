@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T10:50:54Z",
+  "updated": "2026-11-08T10:59:33Z",
   "grants": [
     {
       "id": "early-career-awards",
@@ -1801,6 +1801,64 @@
       "src": "Opportunity Desk, Africa (auto-found)",
       "auto": true,
       "found": "2026-11-07"
+    },
+    {
+      "id": "140023023f",
+      "title": "MCW Global Young Leaders Fellowship 2027 (Funded)",
+      "funder": "Opportunity Desk, Africa",
+      "scope": "international",
+      "cats": [
+        "humanities",
+        "health"
+      ],
+      "type": "Fellowship",
+      "deadline": "2026-12-03",
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "Deadline: December 3, 2026 Applications are open for the MCW Global Young Leaders Fellowship 2027. The Fellowship Program aims to mobilize young people with the skills and resources needed to create and implement vision plans in the areas...",
+      "note": "Found automatically on 2026-11-08. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://opportunitydesk.org/2026/11/07/mcw-global-young-leaders-fellowship-2027-funded/",
+      "src": "Opportunity Desk, Africa (auto-found)",
+      "auto": true,
+      "found": "2026-11-08"
+    },
+    {
+      "id": "6d751291d0",
+      "title": "Center for Effective Global Action (CEGA) Visiting Fellowship 2027-2028",
+      "funder": "Opportunity Desk, Africa",
+      "scope": "international",
+      "cats": [
+        "any"
+      ],
+      "type": "Fellowship",
+      "deadline": "2027-01-17",
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "Deadline: January 17, 2027 Applications are open for the Center for Effective Global Action (CEGA) Visiting Fellowship 2027-2028. The Center for Effective Global Action (CEGA) invites African researchers and practitioners interested in...",
+      "note": "Found automatically on 2026-11-08. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://opportunitydesk.org/2026/11/07/cega-visiting-fellowship-2027-2028/",
+      "src": "Opportunity Desk, Africa (auto-found)",
+      "auto": true,
+      "found": "2026-11-08"
+    },
+    {
+      "id": "f41c410e78",
+      "title": "Arewa Creative Writing and Advocacy Fellowship (ACWAF) 2026 – Cohort 1",
+      "funder": "Opportunity Desk, Africa",
+      "scope": "international",
+      "cats": [
+        "humanities"
+      ],
+      "type": "Fellowship",
+      "deadline": "2026-11-30",
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "Deadline: November 30, 2026 Applications are open for the Arewa Creative Writing and Advocacy Fellowship (ACWAF) 2026. The Arewa Creative Writing and Advocacy Fellowship (ACWAF) is an initiative by the Poetic Wednesdays Initiative,...",
+      "note": "Found automatically on 2026-11-08. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://opportunitydesk.org/2026/11/07/arewa-creative-writing-and-advocacy-fellowship-2026-cohort-1/",
+      "src": "Opportunity Desk, Africa (auto-found)",
+      "auto": true,
+      "found": "2026-11-08"
     }
   ]
 }
