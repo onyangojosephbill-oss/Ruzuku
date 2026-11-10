@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T10:59:33Z",
+  "updated": "2026-11-10T12:01:34Z",
   "grants": [
     {
       "id": "early-career-awards",
@@ -1859,6 +1859,63 @@
       "src": "Opportunity Desk, Africa (auto-found)",
       "auto": true,
       "found": "2026-11-08"
+    },
+    {
+      "id": "48108df1d0",
+      "title": "ICANN Fellowship Program 2027 to Attend ICANN89 Policy Forum in Vancouver, Canada (Funded)",
+      "funder": "Opportunity Desk, Africa",
+      "scope": "international",
+      "cats": [
+        "humanities"
+      ],
+      "type": "Fellowship",
+      "deadline": "2026-12-05",
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "Deadline: December 5, 2026 Applications are open for the ICANN Fellowship Program 2027. The goal of the ICANN Fellowship Program is to strengthen the representation of the multistakeholder model by fostering opportunities for individuals...",
+      "note": "Found automatically on 2026-11-10. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://opportunitydesk.org/2026/11/09/icann-fellowship-program-2027/",
+      "src": "Opportunity Desk, Africa (auto-found)",
+      "auto": true,
+      "found": "2026-11-10"
+    },
+    {
+      "id": "cb1b3de9e0",
+      "title": "Voices of the Future Global Fellowship 2027 (Fully-funded trip to France)",
+      "funder": "Opportunity Desk, Africa",
+      "scope": "international",
+      "cats": [
+        "any"
+      ],
+      "type": "Fellowship",
+      "deadline": null,
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "Voices of the Future is a fully funded, eight-month global fellowship that gives the next generation the real-world experience, skills, and relationships needed to launch a career in",
+      "note": "Found automatically on 2026-11-10. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://opportunitydesk.org/2026/11/09/effie-lions-foundation-voices-of-the-future-global-fellowship-2027/",
+      "src": "Opportunity Desk, Africa (auto-found)",
+      "auto": true,
+      "found": "2026-11-10"
+    },
+    {
+      "id": "7e10351b2d",
+      "title": "Submit Applications for WADTF Digital Trade Grant Program",
+      "funder": "fundsforNGOs",
+      "scope": "international",
+      "cats": [
+        "physical"
+      ],
+      "type": "Research grant",
+      "deadline": "2027-04-30",
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "The West Africa Digital Trade Fund (WADTF) offers funding to support digital trade and regional market access in West Africa. This opportunity is aimed at business associations, farmers' cooperatives, charities, professional organizations,...",
+      "note": "Found automatically on 2026-11-10. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://www2.fundsforngos.org/marketing/west-africa-digital-trade-fund-wadtf-grant-opportunity-for-promoting/",
+      "src": "fundsforNGOs (auto-found)",
+      "auto": true,
+      "found": "2026-11-10"
     }
   ]
 }
