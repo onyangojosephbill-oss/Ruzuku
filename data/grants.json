@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T11:38:52Z",
+  "updated": "2026-11-12T12:05:43Z",
   "grants": [
     {
       "id": "early-career-awards",
@@ -1974,6 +1974,84 @@
       "src": "Opportunity Desk, Africa (auto-found)",
       "auto": true,
       "found": "2026-11-11"
+    },
+    {
+      "id": "8e0b8fb415",
+      "title": "IWMF Kim Wall Memorial Fund 2027 (up to $5,000)",
+      "funder": "Opportunity Desk, Africa",
+      "scope": "international",
+      "cats": [
+        "humanities"
+      ],
+      "type": "Research grant",
+      "deadline": "2026-12-06",
+      "amount": "Up to $5,000",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "Deadline: December 6, 2026 Applications are open for the Kim Wall Memorial Fund 2027. The IWMF’s Kim Wall Memorial Fund will provide $5,000 grants to journalists whose work embodies the spirit of Kim’s reporting. The grant will fund women...",
+      "note": "Found automatically on 2026-11-12. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://opportunitydesk.org/2026/11/12/iwmf-kim-wall-memorial-fund-2027/",
+      "src": "Opportunity Desk, Africa (auto-found)",
+      "auto": true,
+      "found": "2026-11-12"
+    },
+    {
+      "id": "298a69fda2",
+      "title": "ANH Academy Science-Policy Fellowships 2027 (Round 3)",
+      "funder": "Opportunity Desk, Africa",
+      "scope": "international",
+      "cats": [
+        "humanities",
+        "health",
+        "environment"
+      ],
+      "type": "Fellowship",
+      "deadline": "2027-02-28",
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "Deadline: February 28, 2027 Applications are open for the ANH Academy Science-Policy Fellowships 2027. The Agriculture, Nutrition & Health (ANH) Academy is pleased to announce the third round of one-year full-time Science-Policy...",
+      "note": "Found automatically on 2026-11-12. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://opportunitydesk.org/2026/11/11/anh-academy-science-policy-fellowships-2027-round-3/",
+      "src": "Opportunity Desk, Africa (auto-found)",
+      "auto": true,
+      "found": "2026-11-12"
+    },
+    {
+      "id": "78d68c2649",
+      "title": "Africa Dyslexia Teacher Fellowship Program 2027",
+      "funder": "Opportunity Desk, Africa",
+      "scope": "international",
+      "cats": [
+        "any"
+      ],
+      "type": "Fellowship",
+      "deadline": "2026-11-20",
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "Deadline: November 20, 2026 Africa Dyslexia Organisation (ADO), in partnership with REED Charitable Foundation, invites passionate and committed teachers across Africa to apply for the Africa Dyslexia Teacher Fellowship Programme 2027. The...",
+      "note": "Found automatically on 2026-11-12. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://opportunitydesk.org/2026/11/11/africa-dyslexia-teacher-fellowship-program-2027/",
+      "src": "Opportunity Desk, Africa (auto-found)",
+      "auto": true,
+      "found": "2026-11-12"
+    },
+    {
+      "id": "63dac5d53d",
+      "title": "Sport Ability Foundation Grants for Adaptive Sport",
+      "funder": "fundsforNGOs",
+      "scope": "international",
+      "cats": [
+        "any"
+      ],
+      "type": "Research grant",
+      "deadline": "2026-11-30",
+      "amount": "$1,000",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "The Sport Ability Foundation offers grants to support athletes and coaches involved in adaptive sports worldwide. With grant amounts of $1,000, this opportunity aims to empower individuals by providing financial assistance for training,...",
+      "note": "Found automatically on 2026-11-12. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://www2.fundsforngos.org/individuals/sport-ability-foundation-grants-for-adaptive-sport/",
+      "src": "fundsforNGOs (auto-found)",
+      "auto": true,
+      "found": "2026-11-12"
     }
   ]
 }
