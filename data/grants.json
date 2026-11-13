@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T12:05:43Z",
+  "updated": "2026-11-13T11:48:55Z",
   "grants": [
     {
       "id": "early-career-awards",
@@ -2052,6 +2052,102 @@
       "src": "fundsforNGOs (auto-found)",
       "auto": true,
       "found": "2026-11-12"
+    },
+    {
+      "id": "667e5ed412",
+      "title": "DSTI-NRF Policy Fellowship Programme 2027 (Funded)",
+      "funder": "Opportunity Desk, Africa",
+      "scope": "international",
+      "cats": [
+        "humanities",
+        "physical"
+      ],
+      "type": "Fellowship",
+      "deadline": "2026-11-17",
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "Deadline: November 17, 2026 Applications are open for the DSTI-NRF Policy Fellowship Programme 2027. The National Research Foundation (NRF), in partnership with the Department of Science, Technology and Innovation (DSTI), invites eligible...",
+      "note": "Found automatically on 2026-11-13. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://opportunitydesk.org/2026/11/12/dsti-nrf-policy-fellowship-programme-2027/",
+      "src": "Opportunity Desk, Africa (auto-found)",
+      "auto": true,
+      "found": "2026-11-13"
+    },
+    {
+      "id": "c5a1548468",
+      "title": "Gratitude Network Fellowship 2027",
+      "funder": "Opportunity Desk, Africa",
+      "scope": "international",
+      "cats": [
+        "any"
+      ],
+      "type": "Fellowship",
+      "deadline": "2027-01-15",
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "Deadline: January 15, 2027 Applications are invited for the Gratitude Network Fellowship 2027. The Gratitude Network Fellowship is a highly selective, 13 month program designed to accelerate the growth and impact of ambitious nonprofit...",
+      "note": "Found automatically on 2026-11-13. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://opportunitydesk.org/2026/11/12/gratitude-network-fellowship-2027/",
+      "src": "Opportunity Desk, Africa (auto-found)",
+      "auto": true,
+      "found": "2026-11-13"
+    },
+    {
+      "id": "eb1c180167",
+      "title": "Call for Proposals: CBO Organisational Strengthening Program (South Africa)",
+      "funder": "fundsforNGOs",
+      "scope": "international",
+      "cats": [
+        "humanities"
+      ],
+      "type": "Research grant",
+      "deadline": "2026-12-03",
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "The Tshikululu Trust invites experienced service providers to submit proposals for the CBO Organisational Strengthening Programme aimed at supporting community-based organizations in the Northern Cape, South Africa. This two-year...",
+      "note": "Found automatically on 2026-11-13. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://www2.fundsforngos.org/community-development-2/call-for-proposals-cbo-organisational-strengthening-programme-by/",
+      "src": "fundsforNGOs (auto-found)",
+      "auto": true,
+      "found": "2026-11-13"
+    },
+    {
+      "id": "d3e56d8330",
+      "title": "Southern African Journalists’ Fellowship Programme",
+      "funder": "fundsforNGOs",
+      "scope": "international",
+      "cats": [
+        "humanities"
+      ],
+      "type": "Fellowship",
+      "deadline": null,
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "The Southern African Journalists’ Fellowship Programme 2027, supported by the Federal President Horst Köhler Bursary, offers a unique opportunity for young journalists from Southern Africa to gain experience in Germany. Organized by the...",
+      "note": "Found automatically on 2026-11-13. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://www2.fundsforngos.org/individuals/southern-african-journalists-fellowship-programme-2027/",
+      "src": "fundsforNGOs (auto-found)",
+      "auto": true,
+      "found": "2026-11-13"
+    },
+    {
+      "id": "0eaa4c652b",
+      "title": "Call for Proposals: Living Labs Programme (South Africa)",
+      "funder": "fundsforNGOs",
+      "scope": "international",
+      "cats": [
+        "physical"
+      ],
+      "type": "Research grant",
+      "deadline": "2026-12-04",
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "The Technology Innovation Agency (TIA), on behalf of the Department of Science, Technology and Innovation, is inviting proposals for the establishment and implementation of Living Labs in the Ehlanzeni District Municipality of Mpumalanga...",
+      "note": "Found automatically on 2026-11-13. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://www2.fundsforngos.org/cat/living-labs-programme-call-for-proposals-in-ehlanzeni-and-bojanala/",
+      "src": "fundsforNGOs (auto-found)",
+      "auto": true,
+      "found": "2026-11-13"
     }
   ]
 }
