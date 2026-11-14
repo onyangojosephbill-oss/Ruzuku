@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T11:48:55Z",
+  "updated": "2026-11-14T11:09:38Z",
   "grants": [
     {
       "id": "early-career-awards",
@@ -2148,6 +2148,25 @@
       "src": "fundsforNGOs (auto-found)",
       "auto": true,
       "found": "2026-11-13"
+    },
+    {
+      "id": "8e4face797",
+      "title": "Bayer Foundation Scientific Fellowships 2027 (up to €10,000)",
+      "funder": "Opportunity Desk, Africa",
+      "scope": "international",
+      "cats": [
+        "health"
+      ],
+      "type": "Fellowship",
+      "deadline": "2027-01-18",
+      "amount": "Up to €10,000",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "Deadline: January 18, 2027 Applications are open for the Bayer Foundation Scientific Fellowships 2027. The Bayer Foundation offers scientific fellowships for outstanding master, PhD, and medical students to pursue international research...",
+      "note": "Found automatically on 2026-11-14. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://opportunitydesk.org/2026/11/13/bayer-foundation-scientific-fellowships-2027/",
+      "src": "Opportunity Desk, Africa (auto-found)",
+      "auto": true,
+      "found": "2026-11-14"
     }
   ]
 }
