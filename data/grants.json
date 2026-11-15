@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T11:09:38Z",
+  "updated": "2026-11-15T11:43:06Z",
   "grants": [
     {
       "id": "early-career-awards",
@@ -2167,6 +2167,25 @@
       "src": "Opportunity Desk, Africa (auto-found)",
       "auto": true,
       "found": "2026-11-14"
+    },
+    {
+      "id": "f1faabb98e",
+      "title": "Ocean Futures Fellowship 2027: Building Ocean Career Pathways",
+      "funder": "Opportunity Desk, Africa",
+      "scope": "international",
+      "cats": [
+        "humanities"
+      ],
+      "type": "Fellowship",
+      "deadline": "2026-11-17",
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "Deadline: November 17, 2026 Applications are open for the Ocean Futures Fellowship 2027. The Ocean Futures Fellowship empowers the next generation of ocean professionals, equipping them to address pressing ocean challenges while...",
+      "note": "Found automatically on 2026-11-15. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://opportunitydesk.org/2026/11/14/ocean-futures-fellowship-2027-building-ocean-career-pathways/",
+      "src": "Opportunity Desk, Africa (auto-found)",
+      "auto": true,
+      "found": "2026-11-15"
     }
   ]
 }
