@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T11:43:06Z",
+  "updated": "2026-11-17T12:42:30Z",
   "grants": [
     {
       "id": "early-career-awards",
@@ -2186,6 +2186,64 @@
       "src": "Opportunity Desk, Africa (auto-found)",
       "auto": true,
       "found": "2026-11-15"
+    },
+    {
+      "id": "98f5ed89ef",
+      "title": "International Court of Justice Judicial Fellowship Programme 2027-2028",
+      "funder": "Opportunity Desk, Africa",
+      "scope": "international",
+      "cats": [
+        "humanities"
+      ],
+      "type": "Fellowship",
+      "deadline": "2027-02-05",
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "Deadline: February 5, 2027 Applications are open for the International Court of Justice Judicial Fellowship Programme 2027-2028. The Judicial Fellowship Programme, formerly known as the University Traineeship Programme, was established in...",
+      "note": "Found automatically on 2026-11-17. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://opportunitydesk.org/2026/11/16/icj-judicial-fellowship-2027-2028/",
+      "src": "Opportunity Desk, Africa (auto-found)",
+      "auto": true,
+      "found": "2026-11-17"
+    },
+    {
+      "id": "0280d09a42",
+      "title": "Digispace Africa Research Fellowship 2027",
+      "funder": "Opportunity Desk, Africa",
+      "scope": "international",
+      "cats": [
+        "physical"
+      ],
+      "type": "Fellowship",
+      "deadline": "2026-12-07",
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "Deadline: December 7, 2026 Are you curious about how technology is shaping Africa’s future? Do you have ideas about digital rights, emerging technologies or the policies affecting our connected societies? Apply for the Digispace Africa...",
+      "note": "Found automatically on 2026-11-17. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://opportunitydesk.org/2026/11/16/digispace-africa-research-fellowship-2027/",
+      "src": "Opportunity Desk, Africa (auto-found)",
+      "auto": true,
+      "found": "2026-11-17"
+    },
+    {
+      "id": "a8d5b40b80",
+      "title": "Call for Proposals: MDx Impact Grant Program",
+      "funder": "fundsforNGOs",
+      "scope": "international",
+      "cats": [
+        "health",
+        "physical"
+      ],
+      "type": "Research grant",
+      "deadline": "2026-11-19",
+      "amount": "Up to 600,000 USD",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "The Nature Awards MDx Impact Grants offer funding and technology to research groups worldwide to innovate syndromic PCR diagnostics for neurodegenerative diseases, focusing on Alzheimer's Disease (AD). In partnership with Seegene, the...",
+      "note": "Found automatically on 2026-11-17. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://www2.fundsforngos.org/research-2/nature-awards-mdx-impact-grants-advancing-diagnostic-tools-for-alzheimer-s/",
+      "src": "fundsforNGOs (auto-found)",
+      "auto": true,
+      "found": "2026-11-17"
     }
   ]
 }
