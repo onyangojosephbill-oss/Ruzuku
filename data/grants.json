@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T12:42:30Z",
+  "updated": "2026-11-18T12:34:37Z",
   "grants": [
     {
       "id": "early-career-awards",
@@ -2244,6 +2244,102 @@
       "src": "fundsforNGOs (auto-found)",
       "auto": true,
       "found": "2026-11-17"
+    },
+    {
+      "id": "8da4a7fca4",
+      "title": "DAAD Heilbronn AI Fellowship 2027 (Funded)",
+      "funder": "Opportunity Desk, Africa",
+      "scope": "international",
+      "cats": [
+        "physical",
+        "environment"
+      ],
+      "type": "Fellowship",
+      "deadline": null,
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "Deadline: Unspecified Applications are open for the DAAD Heilbronn AI Fellowship 2027. The Heilbronn AI Fellowship attracts outstanding international postdoctoral researchers to Heilbronn’s rapidly growing AI ecosystem. The programme...",
+      "note": "Found automatically on 2026-11-18. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://opportunitydesk.org/2026/11/17/daad-heilbronn-ai-fellowship-2027/",
+      "src": "Opportunity Desk, Africa (auto-found)",
+      "auto": true,
+      "found": "2026-11-18"
+    },
+    {
+      "id": "eb74fcfdee",
+      "title": "EJN Story Grants to Report on Mining, Environment and Human Rights in Africa 2027 (up to $2,000)",
+      "funder": "Opportunity Desk, Africa",
+      "scope": "international",
+      "cats": [
+        "environment"
+      ],
+      "type": "Research grant",
+      "deadline": "2026-12-01",
+      "amount": "Up to $2,000",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "Deadline: December 1, 2026 Applications are open for the EJN Story Grants to Report on Mining, Environment and Human Rights in Africa 2027. EJN is offering reporting grants to journalists in Ghana, DRC, Uganda and South Africa to support...",
+      "note": "Found automatically on 2026-11-18. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://opportunitydesk.org/2026/11/17/ejn-story-grants-to-report-on-mining-environment-and-human-rights-in-africa-2027/",
+      "src": "Opportunity Desk, Africa (auto-found)",
+      "auto": true,
+      "found": "2026-11-18"
+    },
+    {
+      "id": "f7c56a16b0",
+      "title": "Open Call: Knight Science Journalism Academic-Year Fellowship Program",
+      "funder": "fundsforNGOs",
+      "scope": "international",
+      "cats": [
+        "physical"
+      ],
+      "type": "Fellowship",
+      "deadline": null,
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "The Knight Science Journalism Program at MIT offers a prestigious Academic-Year Fellowship for science journalists worldwide. This opportunity allows fellows to engage deeply with science, technology, and journalism at leading research...",
+      "note": "Found automatically on 2026-11-18. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://www2.fundsforngos.org/science/open-call-knight-science-journalism-academic-year-fellowship-program/",
+      "src": "fundsforNGOs (auto-found)",
+      "auto": true,
+      "found": "2026-11-18"
+    },
+    {
+      "id": "2c203f8db9",
+      "title": "Submit Applications for Hong Kong PhD Fellowship Scheme",
+      "funder": "fundsforNGOs",
+      "scope": "international",
+      "cats": [
+        "physical"
+      ],
+      "type": "Fellowship",
+      "deadline": "2026-12-01",
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "The Hong Kong PhD Fellowship Scheme (HKPFS), established by the Hong Kong Research Grants Council, offers outstanding students worldwide the opportunity to pursue their doctoral studies at the Hong Kong University of Science and Technology...",
+      "note": "Found automatically on 2026-11-18. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://www2.fundsforngos.org/leadership/submit-applications-for-hong-kong-phd-fellowship-scheme/",
+      "src": "fundsforNGOs (auto-found)",
+      "auto": true,
+      "found": "2026-11-18"
+    },
+    {
+      "id": "51998f4f8b",
+      "title": "Call for Applications: SVRI Early Career Research Fellowships",
+      "funder": "fundsforNGOs",
+      "scope": "international",
+      "cats": [
+        "any"
+      ],
+      "type": "Fellowship",
+      "deadline": null,
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "The Sexual Violence Research Initiative (SVRI), with the support of the Kering Foundation, is offering doctoral and postdoctoral fellowships to early-career researchers from low- and middle-income countries. These fellowships aim to...",
+      "note": "Found automatically on 2026-11-18. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://www2.fundsforngos.org/leadership/call-for-applications-svri-early-career-research-fellowships/",
+      "src": "fundsforNGOs (auto-found)",
+      "auto": true,
+      "found": "2026-11-18"
     }
   ]
 }
