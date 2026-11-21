@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T12:26:13Z",
+  "updated": "2026-11-21T11:59:52Z",
   "grants": [
     {
       "id": "early-career-awards",
@@ -2437,6 +2437,25 @@
       "src": "fundsforNGOs (auto-found)",
       "auto": true,
       "found": "2026-11-20"
+    },
+    {
+      "id": "490d286eea",
+      "title": "NIVEA CONNECT Gen Z Research Grant Program 2026 (up to €30,000)",
+      "funder": "Opportunity Desk, Africa",
+      "scope": "international",
+      "cats": [
+        "any"
+      ],
+      "type": "Research grant",
+      "deadline": "2026-12-11",
+      "amount": "Up to €30,000",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "Deadline: December 11, 2026 Applications are open for the NIVEA CONNECT Gen Z Research Grant Program 2026. NIVEA CONNECT invites researchers worldwide to propose innovative, early-stage studies that advance understanding of social...",
+      "note": "Found automatically on 2026-11-21. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://opportunitydesk.org/2026/11/20/nivea-connect-gen-z-research-grant-program-2026/",
+      "src": "Opportunity Desk, Africa (auto-found)",
+      "auto": true,
+      "found": "2026-11-21"
     }
   ]
 }
