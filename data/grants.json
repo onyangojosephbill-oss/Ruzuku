@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T11:59:52Z",
+  "updated": "2026-11-22T12:13:50Z",
   "grants": [
     {
       "id": "early-career-awards",
@@ -2456,6 +2456,44 @@
       "src": "Opportunity Desk, Africa (auto-found)",
       "auto": true,
       "found": "2026-11-21"
+    },
+    {
+      "id": "95f9561ff3",
+      "title": "Asia House Fellowship 2027/2028 (£24,000 stipend)",
+      "funder": "Opportunity Desk, Africa",
+      "scope": "international",
+      "cats": [
+        "humanities"
+      ],
+      "type": "Fellowship",
+      "deadline": "2027-01-31",
+      "amount": "£24,000",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "Deadline: January 31, 2027 Applications are open for the Asia House Fellowship 2027/2028. The Asia House Fellowship aims to develop the next generation of business and policy leaders. Now in its sixth year, it is a unique opportunity for...",
+      "note": "Found automatically on 2026-11-22. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://opportunitydesk.org/2026/11/21/asia-house-fellowship-2027-2028/",
+      "src": "Opportunity Desk, Africa (auto-found)",
+      "auto": true,
+      "found": "2026-11-22"
+    },
+    {
+      "id": "88704b4f04",
+      "title": "Dataphyte Foundation Infra-Watch Media Fellowship 2027",
+      "funder": "Opportunity Desk, Africa",
+      "scope": "international",
+      "cats": [
+        "any"
+      ],
+      "type": "Fellowship",
+      "deadline": "2026-11-27",
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "Deadline: November 27, 2026 Applications are open for the Dataphyte Foundation Infra-Watch Media Fellowship 2027. Dataphyte Foundation, in partnership with the Center for International Private Enterprise (CIPE), invites applications from...",
+      "note": "Found automatically on 2026-11-22. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://opportunitydesk.org/2026/11/21/dataphyte-foundation-infra-watch-media-fellowship-2027/",
+      "src": "Opportunity Desk, Africa (auto-found)",
+      "auto": true,
+      "found": "2026-11-22"
     }
   ]
 }
