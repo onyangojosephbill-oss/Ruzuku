@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T14:29:22Z",
+  "updated": "2026-11-25T13:48:13Z",
   "grants": [
     {
       "id": "early-career-awards",
@@ -2551,6 +2551,124 @@
       "src": "fundsforNGOs (auto-found)",
       "auto": true,
       "found": "2026-11-24"
+    },
+    {
+      "id": "4577c3424f",
+      "title": "Call for Applications: Better Futures Fellowship 2027",
+      "funder": "Opportunity Desk, Africa",
+      "scope": "international",
+      "cats": [
+        "humanities"
+      ],
+      "type": "Fellowship",
+      "deadline": "2026-12-06",
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "Deadline: December 6, 2026 Applications are open for the Better Futures Fellowship 2027. The Better Futures Fellowship is a 9-week program for people deciding whether better-futures work should become their focus. Better-futures work is...",
+      "note": "Found automatically on 2026-11-25. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://opportunitydesk.org/2026/11/24/better-futures-fellowship-2027/",
+      "src": "Opportunity Desk, Africa (auto-found)",
+      "auto": true,
+      "found": "2026-11-25"
+    },
+    {
+      "id": "30be41cae7",
+      "title": "SparkUp Initiative Fellowship 2027",
+      "funder": "Opportunity Desk, Africa",
+      "scope": "international",
+      "cats": [
+        "humanities",
+        "health"
+      ],
+      "type": "Fellowship",
+      "deadline": "2026-12-20",
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "Deadline: December 20, 2026 Applications are open for the SparkUp Initiative Fellowship 2027. The SparkUp Initiative is a transformative capacity-building program designed to strengthen women-led organizations by equipping them with the...",
+      "note": "Found automatically on 2026-11-25. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://opportunitydesk.org/2026/11/24/sparkup-initiative-fellowship-2027/",
+      "src": "Opportunity Desk, Africa (auto-found)",
+      "auto": true,
+      "found": "2026-11-25"
+    },
+    {
+      "id": "80b3f909dc",
+      "title": "What Do Past Grants From Kenyan Corporate Foundations Reveal About the Projects They Back?",
+      "funder": "fundsforNGOs",
+      "scope": "kenya",
+      "cats": [
+        "humanities",
+        "environment"
+      ],
+      "type": "Research grant",
+      "deadline": null,
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "Focus Areas: Education and Livelihoods Dominate Corporate Foundation Funding Kenyan corporate foundations, through their grant-making activities, consistently demonstrate a strong commitment to advancing education and fostering sustainable...",
+      "note": "Found automatically on 2026-11-25. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://www2.fundsforngos.org/cat/what-do-past-grants-from-kenyan-corporate-foundations-reveal-about-the-projects-they-back/",
+      "src": "fundsforNGOs (auto-found)",
+      "auto": true,
+      "found": "2026-11-25"
+    },
+    {
+      "id": "0e66d367d4",
+      "title": "Can a South African Community Group Apply for a Grant Through a Registered Nonprofit?",
+      "funder": "fundsforNGOs",
+      "scope": "international",
+      "cats": [
+        "humanities"
+      ],
+      "type": "Research grant",
+      "deadline": null,
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "Understanding Grant Eligibility for South African Community Groups Yes, a South African community group can absolutely apply for a grant through a registered nonprofit organisation (NPO). This is a common and often essential pathway for...",
+      "note": "Found automatically on 2026-11-25. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://www2.fundsforngos.org/articles-searching-grants-and-donors/can-a-south-african-community-group-apply-for-a-grant-through-a-registered-nonprofit/",
+      "src": "fundsforNGOs (auto-found)",
+      "auto": true,
+      "found": "2026-11-25"
+    },
+    {
+      "id": "5784711e74",
+      "title": "Which Embassy Small Grants Can Fund Community Projects Outside Nairobi?",
+      "funder": "fundsforNGOs",
+      "scope": "international",
+      "cats": [
+        "humanities",
+        "health",
+        "environment"
+      ],
+      "type": "Research grant",
+      "deadline": null,
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "United States Embassy: Opportunities Beyond the Capital The United States Embassy in Kenya, through its various programs, offers significant funding opportunities for community development projects across the nation, extending well beyond...",
+      "note": "Found automatically on 2026-11-25. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://www2.fundsforngos.org/articles-searching-grants-and-donors/which-embassy-small-grants-can-fund-community-projects-outside-nairobi/",
+      "src": "fundsforNGOs (auto-found)",
+      "auto": true,
+      "found": "2026-11-25"
+    },
+    {
+      "id": "c1dc725220",
+      "title": "NPO Registration, PBO Approval and Section 18A Status Explained for South African Grantseekers",
+      "funder": "fundsforNGOs",
+      "scope": "international",
+      "cats": [
+        "humanities"
+      ],
+      "type": "Research grant",
+      "deadline": null,
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "Understanding NPO Registration, PBO Approval, and Section 18A Status in South Africa for Grantseekers Navigating the landscape of grant funding in South Africa requires Non-Profit Organisations (NPOs) to understand critical legal and tax...",
+      "note": "Found automatically on 2026-11-25. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://www2.fundsforngos.org/articles-searching-grants-and-donors/npo-registration-pbo-approval-and-section-18a-status-explained-for-south-african-grantseekers/",
+      "src": "fundsforNGOs (auto-found)",
+      "auto": true,
+      "found": "2026-11-25"
     }
   ]
 }
