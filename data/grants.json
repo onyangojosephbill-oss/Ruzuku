@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T13:48:13Z",
+  "updated": "2026-11-26T13:29:44Z",
   "grants": [
     {
       "id": "early-career-awards",
@@ -2669,6 +2669,84 @@
       "src": "fundsforNGOs (auto-found)",
       "auto": true,
       "found": "2026-11-25"
+    },
+    {
+      "id": "23a3615675",
+      "title": "Iso Lomso Fellowships 2028 (Funded)",
+      "funder": "Opportunity Desk, Africa",
+      "scope": "international",
+      "cats": [
+        "any"
+      ],
+      "type": "Fellowship",
+      "deadline": "2027-02-15",
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "Deadline: February 15, 2027 Applications are open for the Iso Lomso Fellowships 2028. The Iso Lomso Fellowships provide a three-year affiliation with STIAS. The aim is to facilitate and support emerging researchers towards becoming...",
+      "note": "Found automatically on 2026-11-26. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://opportunitydesk.org/2026/11/25/iso-lomso-fellowships-2028/",
+      "src": "Opportunity Desk, Africa (auto-found)",
+      "auto": true,
+      "found": "2026-11-26"
+    },
+    {
+      "id": "ac052b3042",
+      "title": "Acumen Academy Green RISE East Africa Fellowship 2027 (Fully-funded)",
+      "funder": "Opportunity Desk, Africa",
+      "scope": "international",
+      "cats": [
+        "humanities"
+      ],
+      "type": "Fellowship",
+      "deadline": "2026-12-22",
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "Deadline: December 22, 2026 Applications are open for the Acumen Academy Green RISE East Africa Fellowship 2027. Acumen invests in social entrepreneurs across the capital continuum and accompanies them on the journey to create...",
+      "note": "Found automatically on 2026-11-26. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://opportunitydesk.org/2026/11/25/acumen-academy-green-rise-east-africa-fellowship-2027/",
+      "src": "Opportunity Desk, Africa (auto-found)",
+      "auto": true,
+      "found": "2026-11-26"
+    },
+    {
+      "id": "a2539e56eb",
+      "title": "Scaling Innovative Tech and Digital Startups in Kenya",
+      "funder": "fundsforNGOs",
+      "scope": "kenya",
+      "cats": [
+        "physical"
+      ],
+      "type": "Research grant",
+      "deadline": null,
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "The Kenya Catalytic Jobs Fund (KCJF), funded by the UK Foreign, Commonwealth & Development Office (FCDO), supports the growth of Kenyan innovations by providing technical assistance and catalytic grants. With a focus on creating jobs and...",
+      "note": "Found automatically on 2026-11-26. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://www2.fundsforngos.org/fellowships/scaling-innovative-tech-and-digital-startups-in-kenya/",
+      "src": "fundsforNGOs (auto-found)",
+      "auto": true,
+      "found": "2026-11-26"
+    },
+    {
+      "id": "55d7542c2b",
+      "title": "Apply for Climate Action and Youth Resilience Grants Programme",
+      "funder": "fundsforNGOs",
+      "scope": "international",
+      "cats": [
+        "humanities",
+        "health",
+        "environment"
+      ],
+      "type": "Research grant",
+      "deadline": "2026-12-11",
+      "amount": "€50,000",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "The Sanofi Foundation is inviting proposals for its 2026 Climate Action & Youth Resilience Grants Program. This initiative aims to support youth-led and community-focused projects that enhance the resilience of children and young people to...",
+      "note": "Found automatically on 2026-11-26. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://www2.fundsforngos.org/fellowships/apply-for-climate-action-and-youth-resilience-grants-programme/",
+      "src": "fundsforNGOs (auto-found)",
+      "auto": true,
+      "found": "2026-11-26"
     }
   ]
 }
