@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T13:29:44Z",
+  "updated": "2026-11-27T13:25:23Z",
   "grants": [
     {
       "id": "early-career-awards",
@@ -2747,6 +2747,44 @@
       "src": "fundsforNGOs (auto-found)",
       "auto": true,
       "found": "2026-11-26"
+    },
+    {
+      "id": "524d4db125",
+      "title": "4 Funding Routes for African NGOs Supporting Older People and Family Carers",
+      "funder": "fundsforNGOs",
+      "scope": "international",
+      "cats": [
+        "any"
+      ],
+      "type": "Research grant",
+      "deadline": null,
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "Here are 4 Funding Routes for African NGOs Supporting Older People and Family Carers 1. Aggregated African NGO Funding Opportunities This route leverages curated lists of current grant calls specifically targeting African NGOs, including...",
+      "note": "Found automatically on 2026-11-27. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://www2.fundsforngos.org/cat/4-funding-routes-for-african-ngos-supporting-older-people-and-family-carers/",
+      "src": "fundsforNGOs (auto-found)",
+      "auto": true,
+      "found": "2026-11-27"
+    },
+    {
+      "id": "e06e6b7d8a",
+      "title": "6 Donors to Research If Your African Youth Organisation Has Never Managed a Grant",
+      "funder": "fundsforNGOs",
+      "scope": "international",
+      "cats": [
+        "humanities"
+      ],
+      "type": "Research grant",
+      "deadline": null,
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "6 Donors to Research If Your African Youth Organisation Has Never Managed a Grant For an African youth organisation new to grant management, navigating the funding landscape can feel daunting. The key to success is identifying donors who...",
+      "note": "Found automatically on 2026-11-27. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://www2.fundsforngos.org/articles-searching-grants-and-donors/6-donors-to-research-if-your-african-youth-organisation-has-never-managed-a-grant/",
+      "src": "fundsforNGOs (auto-found)",
+      "auto": true,
+      "found": "2026-11-27"
     }
   ]
 }
