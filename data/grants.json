@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T13:25:23Z",
+  "updated": "2026-11-28T12:38:37Z",
   "grants": [
     {
       "id": "early-career-awards",
@@ -2785,6 +2785,104 @@
       "src": "fundsforNGOs (auto-found)",
       "auto": true,
       "found": "2026-11-27"
+    },
+    {
+      "id": "e9710d83ad",
+      "title": "8 European Foundations That Make Grants to African NGOs",
+      "funder": "fundsforNGOs",
+      "scope": "international",
+      "cats": [
+        "humanities",
+        "health"
+      ],
+      "type": "Research grant",
+      "deadline": null,
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "8 European Foundations That Make Grants to African NGOs This article highlights eight European funders that offer financial support to non-governmental organizations (NGOs) operating in Africa. We’ve focused on identifying foundations and...",
+      "note": "Found automatically on 2026-11-28. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://www2.fundsforngos.org/articles-searching-grants-and-donors/8-european-foundations-that-make-grants-to-african-ngos/",
+      "src": "fundsforNGOs (auto-found)",
+      "auto": true,
+      "found": "2026-11-28"
+    },
+    {
+      "id": "d0b70a8a01",
+      "title": "Does an Africa-Wide Grant Cover Your Country? 3 Places to Check Before You Apply",
+      "funder": "fundsforNGOs",
+      "scope": "international",
+      "cats": [
+        "any"
+      ],
+      "type": "Research grant",
+      "deadline": null,
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "Does an Africa-Wide Grant Cover Your Country? 3 Places to Check Before You Apply Understanding “Africa-Wide” Grants: A Crucial First Step The term “Africa-wide grant” often conjures images of universal accessibility, suggesting that any...",
+      "note": "Found automatically on 2026-11-28. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://www2.fundsforngos.org/articles-searching-grants-and-donors/does-an-africa-wide-grant-cover-your-country-3-places-to-check-before-you-apply/",
+      "src": "fundsforNGOs (auto-found)",
+      "auto": true,
+      "found": "2026-11-28"
+    },
+    {
+      "id": "871a746025",
+      "title": "4 Funding Sources for Migrant-Led Groups Helping Workers Access Services in African Cities",
+      "funder": "fundsforNGOs",
+      "scope": "international",
+      "cats": [
+        "any"
+      ],
+      "type": "Research grant",
+      "deadline": null,
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "Here are four funding sources that migrant-led groups in African cities can explore to help workers access services, with a focus on their specific support, eligibility, application processes, and grant details. 1. Global Cities Fund for...",
+      "note": "Found automatically on 2026-11-28. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://www2.fundsforngos.org/articles-searching-grants-and-donors/4-funding-sources-for-migrant-led-groups-helping-workers-access-services-in-african-cities/",
+      "src": "fundsforNGOs (auto-found)",
+      "auto": true,
+      "found": "2026-11-28"
+    },
+    {
+      "id": "5772cd371c",
+      "title": "5 Grants for Recording Oral Histories and Preserving Community Archives in Africa",
+      "funder": "fundsforNGOs",
+      "scope": "international",
+      "cats": [
+        "humanities"
+      ],
+      "type": "Research grant",
+      "deadline": null,
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "Understanding Funding for Oral Histories and Community Archives in Africa This article explores five grant opportunities relevant to recording oral histories and preserving community archives across Africa. It provides insights into what...",
+      "note": "Found automatically on 2026-11-28. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://www2.fundsforngos.org/articles-searching-grants-and-donors/5-grants-for-recording-oral-histories-and-preserving-community-archives-in-africa/",
+      "src": "fundsforNGOs (auto-found)",
+      "auto": true,
+      "found": "2026-11-28"
+    },
+    {
+      "id": "9aea13521a",
+      "title": "4 Funding Routes for African Legal Aid Organisations Serving Rural Communities",
+      "funder": "fundsforNGOs",
+      "scope": "international",
+      "cats": [
+        "humanities",
+        "health",
+        "environment"
+      ],
+      "type": "Research grant",
+      "deadline": null,
+      "amount": "Not stated in the announcement",
+      "who": "Not stated in the announcement. Open the funder page for eligibility.",
+      "summary": "State Legal Aid Budgets and Legal Aid Funds Dedicated public funding remains a cornerstone for sustainable legal aid provision across Africa, particularly for organisations serving rural and disadvantaged communities. This approach...",
+      "note": "Found automatically on 2026-11-28. A person has not checked this entry, so confirm the details on the funder page.",
+      "url": "https://www2.fundsforngos.org/articles-searching-grants-and-donors/4-funding-routes-for-african-legal-aid-organisations-serving-rural-communities/",
+      "src": "fundsforNGOs (auto-found)",
+      "auto": true,
+      "found": "2026-11-28"
     }
   ]
 }
